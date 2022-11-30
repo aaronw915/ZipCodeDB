@@ -1,0 +1,825 @@
+Complaint#,License Type,Street,City,State,Zip,Latitude,Longitude,RunAutomation
+CO2021-20043,Doctor of Medicine (MD),3537 Woodland Dr,Hilliard,OH,43026-2628,40.022096,-83.198793,No
+CO2021-13813,Doctor of Medicine (MD),1562 Marlowe Ave,Lakewood,OH,44107,41.48072,-81.796002,No
+CO2021-13816,Doctor of Medicine (MD),11116 Lismore Ln,Matthews,NC,28105-0039,35.058218,-80.75427,No
+CO2021-13818,Doctor of Medicine (MD),11116 Lismore Ln,Matthews,NC,28105-0039,35.058218,-80.75427,No
+CO2021-13820,Respiratory Care Professional,3652 Wales Ave NW Apt B,Massillon,OH,44646-1834,40.8343597,-81.501207,No
+CO2021-13822,Doctor of Medicine (MD),656 Bennettwood Court,Cincinnati,OH,45230,39.08488464,-84.38988495,No
+CO2021-13824,Doctor of Medicine (MD),1691 Apple Tree Ln,Fort Mill,SC,29715-9113,34.993655,-80.902437,No
+CO2021-13827,Doctor of Medicine (MD),2445 Lyttonsville Rd Apt 305,Silver Spring,MD,20910-1932,39.000032,-77.051792,No
+CO2021-13828,Doctor of Medicine (MD),1903 E Main St,Richmond,IN,47374-5707,39.8295867,-84.8763171,No
+CO2021-13829,Doctor of Medicine (MD),425 Literary Rd Apt 302,Cleveland,OH,44113-4516,41.484083,-81.68352006,No
+CO2021-13830,Doctor of Medicine (MD),19 Greenwich Park Apt 2,Boston,MA,02118-3037,42.342769,-71.080383,No
+CO2021-13832,Physician Assistant (PA),947 Mae Christine Dr Apt 108,Worthington,OH,43085-4937,40.08896255,-83.02019501,No
+CO2021-13835,Doctor of Medicine (MD),1201 Myrtle Ave,Chesapeake,VA,23325-2923,36.819248,-76.234701,No
+CO2021-13839,Doctor of Medicine (MD),7335 Yankee Rd Ste 202,Liberty Township,OH,45044-1253,39.374656,-84.374894,No
+CO2021-13842,Doctor of Medicine (MD),111 W Reagan Pkwy,Medina,OH,44256-1545,41.156051,-81.866587,No
+CO2021-13844,Doctor of Medicine (MD),656 Bennettwood Court,Cincinnati,OH,45230,39.08488464,-84.38988495,No
+CO2021-13845,Doctor of Medicine (MD),34 W Poplar Ave Apt 503,Columbus,OH,43215-1690,39.9746,-83.004146,No
+CO2021-13846,Doctor of Medicine (MD),446 KINSEY RD,XENIA,OH,45385,39.7148255,-83.9154307,No
+CO2021-13850,Anesthesiologist Assistant (AA),1064 Lynmoor Dr NE,Brookhaven,GA,30319-4124,33.8444365,-84.345228,No
+CO2021-13851,Doctor of Medicine (MD),4239 Highway 1192 Suite 300,Marksville,LA,71351-4772,31.142986,-92.063671,No
+CO2021-13853,Doctor of Medicine (MD),656 Bennettwood Court,Cincinnati,OH,45230,39.08488464,-84.38988495,No
+CO2021-13855,Doctor of Medicine (MD),2051 3rd St Apt 316,San Francisco,CA,94107-3824,37.7637759,-122.3884946,No
+CO2021-13857,Licensed Dietitian,201 Sawgrass Dr,Dothan,AL,36303-6806,31.243227,-85.465538,No
+CO2021-13859,Doctor of Medicine (MD),1716 NORTH PARK AVE NW,CANTON,OH,44708,40.816073,-81.41535,No
+CO2021-13860,Doctor of Medicine (MD),728 Robinhood Dr,Newark,OH,43055-3320,40.1005345,-82.4488801,No
+CO2021-13862,Doctor of Medicine (MD),1270 Driftwood Trl,Sidney,OH,45365-1993,40.3143942,-84.1406839,No
+CO2021-13863,Doctor of Medicine (MD),91 Bloomfield Ave,Iselin,NJ,08830-2166,40.568734,-74.311926,No
+CO2021-13864,Doctor of Medicine (MD),1609 Heatherton Dr,Toledo,OH,43614,41.61022,-83.632572,No
+CO2021-13865,Doctor of Medicine (MD),8029 W 166th Pl,Overland Park,KS,66085-8237,38.825901,-94.682547,No
+CO2021-13867,Doctor of Medicine (MD),5692 far hills avenue suite 3,dayton,OH,45385,39.663695,-84.159423,No
+CO2021-13868,Doctor of Osteopathic Medicine (DO),7177 Anderson Rd,Windham,OH,44288-9702,41.2436865,-81.1329887,No
+CO2021-13870,Doctor of Medicine (MD),482 Bradley Street,Pittsburgh,PA,15211,40.43653,-80.029656,No
+CO2021-13871,Doctor of Medicine (MD),13333 Northwest Fwy Ste 540,Houston,TX,77040-6166,29.849187,-95.507731,No
+CO2021-13876,Doctor of Medicine (MD),6270 Route 5,Portland,NY,14769-9632,42.4073998,-79.4609003,No
+CO2021-13877,Doctor of Medicine (MD),2639 Upton Avenue,TOLEDO,OH,43606,41.673043,-83.589141,No
+CO2021-13883,Doctor of Medicine (MD),1960 Tamarack Rd.,Newark,OH,43055,40.041425,-82.464776,No
+CO2021-13884,Doctor of Medicine (MD),8214 East High Point Drive,Scottsdale,AZ,85266,33.795178,-111.90392,No
+CO2021-13891,Physician Assistant (PA),303 Anthony Dr,Steubenville,OH,43953-7246,40.353329,-80.737307,No
+CO2021-13893,Doctor of Osteopathic Medicine (DO),134 Maple Hill Dr,Swedesboro,NJ,08085-1365,39.749243,-75.333404,No
+CO2021-13896,Doctor of Osteopathic Medicine (DO),8576 Wood Hollow Rd,Sagamore Hills,OH,44067-1851,41.323404,-81.540572,No
+CO2021-13898,Doctor of Medicine (MD),5220 Jimmy Lee Smith Pkwy Ste 104265,Hiram,GA,30141-2739,33.885254,-84.743055,No
+CO2021-13899,Doctor of Medicine (MD),7135 Airy View Drive,Liberty Township,OH,45044,39.407601,-84.381959,No
+CO2021-13908,Doctor of Medicine (MD),400 N Weston,Troy,OH,45373,40.052915,-84.2307083,No
+CO2021-13915,Doctor of Medicine (MD),4516 Union Bay Pl NE Apt 406,Seattle,WA,98105,47.661999,-122.292945,No
+CO2021-13920,Doctor of Medicine (MD),2725 LINCOLN ST E,CANTON,OH,44707,40.791592,-81.3371,No
+CO2021-13924,Doctor of Medicine (MD),4040 E Camelback Rd Ste 250,Phoenix,AZ,85018-8350,33.510536,-111.993622,No
+CO2021-13927,Doctor of Medicine (MD),1294 Harbor Ct,Independence,KY,41051-8540,38.9572557,-84.58439,No
+CO2021-13928,Doctor of Medicine (MD),1134 Mt. Zion Rd. NW,LANCASTER,OH,43130,39.7456136,-82.7066338,No
+CO2021-13929,Respiratory Care Professional,4202 W 94th Ter Apt 110,Prairie Village,KS,66207-2771,38.95834,-94.634214,No
+CO2021-13931,Doctor of Medicine (MD),"3949 Sun Forest Court, Suite 201",Toledo,OH,43623,41.69111,-83.631995,No
+CO2021-13932,Doctor of Medicine (MD),6751 SALERNO ST NW,CANTON,OH,44718,40.868008,-81.47589,No
+CO2021-13933,Doctor of Osteopathic Medicine (DO),27 Walnut St,Ashville,OH,43103-1535,39.714239,-82.949877,No
+CO2021-13935,Doctor of Medicine (MD),2107 Raeburn Dr,Cincinnati,OH,45223-1226,39.173401,-84.553039,No
+CO2021-13937,Doctor of Medicine (MD),1777 Coventry Road,Upper Arlington,OH,43212,39.9927933,-83.0587887,No
+CO2021-13940,Doctor of Medicine (MD),1777 Coventry Road,Upper Arlington,OH,43212,39.9927933,-83.0587887,No
+CO2021-13941,Doctor of Medicine (MD),1777 Coventry Road,Upper Arlington,OH,43212,39.9927933,-83.0587887,No
+CO2021-13950,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-13951,Doctor of Medicine (MD),2374 Village Common Drive Suite 100,Erie,PA,16506,42.069317,-80.111831,No
+CO2021-13952,Doctor of Osteopathic Medicine (DO),5569 Fawnbrook Ln,Dublin,OH,43017-8253,40.130155,-83.141149,No
+CO2021-13954,Doctor of Medicine (MD),"6480 Harrison Ave Suite 201, Attn Paula Runion",Cincinnati,OH,45247,39.21128082,-84.63861847,No
+CO2021-13964,Doctor of Medicine (MD),122 Ashland Pl Apt 7H,Brooklyn,NY,11201-3906,40.6924332,-73.9793559,No
+CO2021-13965,Doctor of Medicine (MD),470 White Pond Dr ste 100,Akron,OH,44320,41.103358,-81.58674,No
+CO2021-13966,Doctor of Medicine (MD),67109 Woodfield Dr,New Plymouth,OH,45654,39.3626945,-82.4206533,No
+CO2021-13967,Doctor of Osteopathic Medicine (DO),2740 Mack Rd,Fairfield,OH,45014-5161,39.311708,-84.527808,No
+CO2021-13968,Doctor of Medicine (MD),8969 ADAMS RD,HUBER HTS,OH,45424,39.840249,-84.075518,No
+CO2021-13970,Doctor of Medicine (MD),30008 ST ANDREWS,PERRYSBURG,OH,43551,41.585298,-83.582111,No
+CO2021-13971,Doctor of Medicine (MD),1777 Coventry Road,Upper Arlington,OH,43212,39.9927933,-83.0587887,No
+CO2021-13972,Doctor of Medicine (MD),4029 CANTERBURY,NORTH OLMSTED,OH,44070,41.430513,-81.912919,No
+CO2021-13973,Doctor of Medicine (MD),2579 Snowberry Ln,Pepper Pike,OH,44124-4324,41.49497,-81.453569,No
+CO2021-13974,Doctor of Medicine (MD),1040 Delaware avenue,Marion,OH,43302,40.570123,-83.120656,No
+CO2021-13977,Doctor of Medicine (MD),27 Diamond Lane,New Milford,CT,6776,41.63504,-73.4158917,No
+CO2021-13981,Doctor of Osteopathic Medicine (DO),1217 Cromartie Ln,Columbus,OH,43201-3888,39.988453,-82.995094,No
+CO2021-13983,Doctor of Medicine (MD),46 Waterford Ct,Granville,OH,43023-9501,40.0689903,-82.4858527,No
+CO2021-13985,Massage Therapist (MT),14452 Broadwood Dr,Burton,OH,44021-9560,41.4750593,-81.1717493,No
+CO2021-13988,Doctor of Osteopathic Medicine (DO),7225 Edgewood Ln,Athens,OH,45701-8762,39.3070643,-82.1619143,No
+CO2021-13989,Doctor of Medicine (MD),107 Fieldcrest St Apt 103,Ann Arbor,MI,48103-5882,42.251288,-83.751246,No
+CO2021-13990,Doctor of Medicine (MD),7811 PLANTATION DR,BRECKSVILLE,OH,44141,41.3485693,-81.6294685,No
+CO2021-13991,Doctor of Medicine (MD),10730 Euclid Ave Apt 920,Cleveland,OH,44106-2271,41.503048,-81.61144,No
+CO2021-13992,Doctor of Medicine (MD),1528 Warwick Ct,Ann Arbor,MI,48103-5648,42.259591,-83.775983,No
+CO2021-13994,Respiratory Care Professional,16655 Secret Meadow Dr,Odessa,FL,33556-2751,28.195726,-82.548075,No
+CO2021-14003,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14004,Doctor of Medicine (MD),1477 HUNTING HOLLOW DR,HUDSON,OH,44236,41.257101,-81.452609,No
+CO2021-14005,Doctor of Medicine (MD),1226 Ethel Ave,Lakewood,OH,44107-2320,41.4900942,-81.8130123,No
+CO2021-14007,Doctor of Medicine (MD),104 Conway Ct,Cary,NC,27513-9400,35.780625,-78.840933,No
+CO2021-14008,Doctor of Osteopathic Medicine (DO),3464 E Virgil Dr,Gilbert,AZ,85298-4288,33.231425,-111.71463,No
+CO2021-14010,Doctor of Osteopathic Medicine (DO),8940 Kingsridge Dr Ste 103,Dayton,OH,45458,39.629744,-84.222198,No
+CO2021-14012,Doctor of Osteopathic Medicine (DO),4709 Clipper Xing,Edmond,OK,73013-9006,35.629647,-97.419373,No
+CO2021-14013,Respiratory Care Professional,905 20th St,Vienna,WV,26105-1256,39.3177675,-81.5476512,No
+CO2021-14021,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14022,Doctor of Medicine (MD),1777 Coventry Road,Upper Arlington,OH,43212,39.9927933,-83.0587887,No
+CO2021-14024,Doctor of Medicine (MD),5270 Walnut Grove Rd,Memphis,TN,38120-1931,35.130923,-89.886299,No
+CO2021-14029,Doctor of Medicine (MD),124 s remington rd,Bexley,OH,43209,39.967628,-82.928699,No
+CO2021-14031,Doctor of Medicine (MD),2890 WOODBURY RD,SHAKER HTS,OH,44120,41.47957,-81.578677,No
+CO2021-14032,Doctor of Osteopathic Medicine (DO),143 Beuhring St.,Lavalette,WV,25535,38.3202,-82.446694,No
+CO2021-14033,Doctor of Medicine (MD),5495 Hedgebrook drive,north royalton,OH,44133,41.293532,-81.723202,No
+CO2021-14037,Doctor of Medicine (MD),8623 HETHERIDGE LANE,CINCINNATI,OH,45249,39.259944,-84.323356,No
+CO2021-14039,Doctor of Medicine (MD),8076 Lombard Way,Dublin,OH,43016,40.1338161,-83.1635468,No
+CO2021-14040,Doctor of Medicine (MD),3400 old brainard rd,pepper pike,OH,44124,41.467396,-81.483714,No
+CO2021-14041,Doctor of Medicine (MD),616 B Office Parkway,Westerville,OH,43082,40.141583,-82.923806,No
+CO2021-14042,Doctor of Medicine (MD),5823 Bowen Daniel Dr Unit 1101,Tampa,FL,33616-1471,27.883692,-82.528869,No
+CO2021-14045,Doctor of Osteopathic Medicine (DO),5675 MISSION HILLS DR,CANFIELD,OH,44406,41.0383756,-80.7363733,No
+CO2021-14046,Massage Therapist (MT),5332 Springdale Rd,Cincinnati,OH,45251-1820,39.239096,-84.621902,No
+CO2021-14047,Doctor of Medicine (MD),1221 Upland Avenue,Ft. Wright,KY,41011,39.0585689,-84.5253154,No
+CO2021-14049,Massage Therapist (MT),5935 Windward Ct,Lewis Center,OH,43035-7953,40.192907,-82.983723,No
+CO2021-14050,Doctor of Medicine (MD),101 Unicorn Lane,Kennett Square,PA,19348,39.858309,-75.71652,No
+CO2021-14051,Doctor of Medicine (MD),5 Crestleigh Pl,Lutherville,MD,21093-3973,39.429395,-76.647987,No
+CO2021-14052,Doctor of Medicine (MD),PO Box 1423,Venice,FL,34284-1423,27.09999275,-82.44891357,No
+CO2021-14054,Doctor of Medicine (MD),5 Crestleigh Pl,Lutherville,MD,21093-3973,39.429395,-76.647987,No
+CO2021-14058,Massage Therapist (MT),7849 Allison Ave,Dayton,OH,45415-2202,39.835044,-84.262968,No
+CO2021-14060,Massage Therapist (MT),3242 Township Rd. 127,Edison,OH,43320,40.5454624,-82.8603179,No
+CO2021-14067,Doctor of Medicine (MD),5698 Cherrywood Court,Mason,OH,45040,39.3720944,-84.3211652,No
+CO2021-14068,Doctor of Medicine (MD),3700 Park East Dr Ste 450,Beachwood,OH,44122-4305,41.459989,-81.494969,No
+CO2021-14069,Doctor of Medicine (MD),3700 Park East Dr Ste 450,Beachwood,OH,44122-4305,41.459989,-81.494969,No
+CO2021-14071,Doctor of Medicine (MD),656 Bennettwood Court,Cincinnati,OH,45230,39.08488464,-84.38988495,No
+CO2021-14074,Doctor of Medicine (MD),4539 Nassau Drive,Sugar Land,TX,77479,29.569829,-95.583879,No
+CO2021-14081,Doctor of Medicine (MD),10788 Winchcombe Dr,Dublin,OH,43016,40.141559,-83.105328,No
+CO2021-14082,Doctor of Medicine (MD),32010 Jefferson Ave,Saint Clair Shores,MI,48082-1365,42.5245217,-82.8743517,No
+CO2021-14083,Doctor of Medicine (MD),303 E Town St 2nd Fl,Columbus,OH,43215-4601,39.959421,-82.991222,No
+CO2021-14084,Doctor of Medicine (MD),4960 SW 72nd Ave Ste 400,Miami,FL,33155-5550,25.723877,-80.312664,No
+CO2021-14085,Doctor of Osteopathic Medicine (DO),1003 Bellefontaine Ave Ste 200,Lima,OH,45804-1803,40.735328,-84.085469,No
+CO2021-14086,Doctor of Osteopathic Medicine (DO),1003 Bellefontaine Ave Ste 200,Lima,OH,45804-1803,40.735328,-84.085469,No
+CO2021-14087,Doctor of Medicine (MD),1607 Midwest Club Pkwy,Oak Brook,IL,60523,41.825424,-87.975629,No
+CO2021-14095,Doctor of Osteopathic Medicine (DO),190 S High St Apt 673,Columbus,OH,43215-3679,39.9582082,-82.9995328,No
+CO2021-14098,Doctor of Medicine (MD),6605 Aftwood Dr,Sylvania,OH,43560-3904,41.6830099,-83.7009578,No
+CO2021-14099,Doctor of Medicine (MD),2757 Minot Avenue,Cincinnati,OH,45209,39.152718,-84.4395,No
+CO2021-14101,Doctor of Medicine (MD),38670 Gaelic Gln,Solon,OH,44139-5932,41.3966526,-81.4018958,No
+CO2021-14104,Doctor of Medicine (MD),2376 W 5th St,Cleveland,OH,44113-4520,41.481288,-81.682133,No
+CO2021-14107,Doctor of Medicine (MD),6631 Baronscourt Loop,Dublin,OH,43016-6090,40.0916353,-83.1704513,No
+CO2021-14109,Physician Assistant (PA),5230 Crested Owl Ct,Morrow,OH,45152-8005,39.3567206,-84.155332,No
+CO2021-14113,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14114,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14116,Doctor of Medicine (MD),345 N Canal St Ste 201,Chicago,IL,60606-1333,41.888227,-87.639639,No
+CO2021-14117,Doctor of Medicine (MD),6282 Edgecreek Lane,Columbus,OH,43231,40.098712,-82.935747,No
+CO2021-14118,Doctor of Osteopathic Medicine (DO),C/O DOCTORS HOSP-MED EDU DEPT 1087 DENNISON AVENUE,COLUMBUS,OH,43201,39.984044,-83.00895,No
+CO2021-14130,Physician Assistant (PA),5717 Pacific Center Blvd Ste 200,San Diego,CA,92121-4250,32.902466,-117.198379,No
+CO2021-14133,Training Certificate (DO),611 E Livingston Ave,Columbus,OH,43205-2634,39.951851,-82.98202,No
+CO2021-14141,Doctor of Medicine (MD),650 Harbor Dr,Lebanon,OH,45036-2706,39.4420919,-84.1802637,No
+CO2021-14144,Respiratory Care Professional,905 20th St,Vienna,WV,26105-1256,39.3177675,-81.5476512,No
+CO2021-14148,Doctor of Osteopathic Medicine (DO),5469 Rosewick Dr,Dublin,OH,43016-8393,40.064435,-83.146385,No
+CO2021-14149,Doctor of Medicine (MD),3963 McLean Rd 3963 McLean Rd,Franklin,OH,45005-4755,39.5210237,-84.2689173,No
+CO2021-14151,Doctor of Medicine (MD),"Three Gateway Center, Suite 2000 401 Liberty Avenue",Pittsburgh,PA,15222,40.4428267,-80.0055067,No
+CO2021-14153,Doctor of Medicine (MD),11100 Plum Ridge Place,Plain City,OH,43064,40.175593,-83.190327,No
+CO2021-14160,Doctor of Medicine (MD),3963 McLean Rd 3963 McLean Rd,Franklin,OH,45005-4755,39.5210237,-84.2689173,No
+CO2021-14163,Doctor of Medicine (MD),4207 Gantz Rd,Grove City,OH,43123-2993,39.876633,-83.056895,No
+CO2021-14164,Doctor of Medicine (MD),175 W Galbraith Road,Cincinnati,OH,45216,39.212828,-84.483869,No
+CO2021-14165,Doctor of Medicine (MD),1066 Beverly Ave,Zanesville,OH,43701-1415,39.978988,-82.018808,No
+CO2021-14166,Respiratory Care Professional,1491 Justin Ct,Bellbrook,OH,45305-1164,39.6519221,-84.0985831,No
+CO2021-14167,Doctor of Osteopathic Medicine (DO),413 Summerwood Court,myrtle beach,SC,29579,33.7494954,-78.9227027,No
+CO2021-14169,Doctor of Medicine (MD),3156 Royal Oak Ct,Westlake,OH,44145-3770,41.44284,-81.959258,No
+CO2021-14172,Doctor of Medicine (MD),25235 Orchard Lake Rd,Farmington Hills,MI,48336-1233,42.4787051,-83.3581469,No
+CO2021-14173,Doctor of Medicine (MD),13921 Clackamas River Dr,Oregon City,OR,97045-9485,45.3864198,-122.5712098,No
+CO2021-14174,Doctor of Medicine (MD),318 South Michigan Ave.  Unit 300,Chicago,IL,60604,41.877676,-87.624881,No
+CO2021-14175,Doctor of Medicine (MD),32420 Woodsdale Ln,Solon,OH,44139-1339,41.416304,-81.448574,No
+CO2021-14176,Doctor of Medicine (MD),11100 Plum Ridge Place,Plain City,OH,43064,40.175593,-83.190327,No
+CO2021-14177,Doctor of Medicine (MD),975 Bethesda Dr,Zanesville,OH,43701,39.973746,-82.018184,No
+CO2021-14178,Doctor of Medicine (MD),8813 Andora Dr,Miramar,FL,33025-2558,25.986425,-80.26136,No
+CO2021-14180,Doctor of Medicine (MD),1446 Reserve Dr,Akron,OH,44333-1095,41.174318,-81.675213,No
+CO2021-14182,Doctor of Medicine (MD),1446 Reserve Dr,Akron,OH,44333-1095,41.174318,-81.675213,No
+CO2021-14183,Doctor of Medicine (MD),276 Murdocksville Rd,Clinton,PA,15026-1314,40.4832178,-80.3709103,No
+CO2021-14189,Doctor of Medicine (MD),3036 Camelot Dr.,Portsmouth,OH,45662,38.7587463,-82.9697381,No
+CO2021-14190,Massage Therapist (MT),3211 Independence St,Grove City,OH,43123-1711,39.898136,-83.074031,No
+CO2021-14191,Doctor of Osteopathic Medicine (DO),1221 S Trimble Rd Ste B1,Mansfield,OH,44907-2212,40.726893,-82.546666,No
+CO2021-14192,Doctor of Medicine (MD),10464 SW 128th Ter,Miami,FL,33176-5521,25.649518,-80.364331,No
+CO2021-14197,Doctor of Medicine (MD),32010 Jefferson Ave,Saint Clair Shores,MI,48082-1365,42.5245217,-82.8743517,No
+CO2021-14198,Doctor of Medicine (MD),2035 IUKA AVE,COLUMBUS,OH,43201,40.004766,-83.002727,No
+CO2021-14200,Doctor of Medicine (MD),3406 Willow Creek Dr,Beavercreek,OH,45432-4000,39.7478955,-84.0598189,No
+CO2021-14202,Doctor of Medicine (MD),1640 Whitley Dr,Harrisburg,PA,17111-6949,40.2957355,-76.7620623,No
+CO2021-14203,Doctor of Medicine (MD),855 South Wall st,Columbus,OH,43206,39.944487,-82.998588,No
+CO2021-14204,Licensed Dietitian,4076 Skyview Dr Apt 190,Brunswick,OH,44212-1256,41.2719643,-81.8325803,No
+CO2021-14207,Doctor of Medicine (MD),1328 Fieldstone Ct,Broadview Hts,OH,44147-3624,41.2878775,-81.6891348,No
+CO2021-14209,Doctor of Osteopathic Medicine (DO),6228 S Applecross Rd,Highland Heights,OH,44143,41.553984,-81.454593,No
+CO2021-14213,Doctor of Medicine (MD),433 THORNHILL RD,OAKWOOD,OH,45419,39.71968,-84.18154,No
+CO2021-14215,Doctor of Medicine (MD),257 Argyle Rd,Rocky River,OH,44116-1607,41.486215,-81.840636,No
+CO2021-14217,Doctor of Medicine (MD),2517 TIMBER LANE,GREENSBORO,NC,27408,36.0983237,-79.8276322,No
+CO2021-14223,Massage Therapist (MT),110 Chestnut St,Powhatan Point,OH,43942-1009,39.854606,-80.818429,No
+CO2021-14224,Doctor of Medicine (MD),75 Buena Vista Ave,Stinson Beach,CA,94970-9711,37.899165,-122.639008,No
+CO2021-14225,Doctor of Medicine (MD),75 Buena Vista Ave,Stinson Beach,CA,94970-9711,37.899165,-122.639008,No
+CO2021-14226,Massage Therapist (MT),"5273 Cadwallader Sonk Rd., P.O. box 84",Fowler,OH,44418-0084,41.287998,-80.629026,No
+CO2021-14227,Respiratory Care Professional,1745 Addison Park Cv,Cordova,TN,38016-0375,35.172961,-89.724168,No
+CO2021-14229,Doctor of Medicine (MD),25 Office Park Dr,HAMILTON,OH,45013,39.426829,-84.576994,No
+CO2021-14230,Doctor of Medicine (MD),1430 Columbus Ave.,Washington Court House,OH,43160,39.548083,-83.427253,No
+CO2021-14231,Doctor of Medicine (MD),"6480 Harrison Ave Suite 201, Attn Paula Runion",Cincinnati,OH,45247,39.21128082,-84.63861847,No
+CO2021-14232,Doctor of Medicine (MD),1945 Newark Granville Rd,Granville,OH,43023-9169,40.060692,-82.481753,No
+CO2021-14234,Doctor of Medicine (MD),1225 W MARKET ST,GERMANTOWN,OH,45327,39.6218853,-84.385804,No
+CO2021-14235,Doctor of Medicine (MD),847 Foxcreek Lane,Cincinnati,OH,45233,39.112295,-84.672813,No
+CO2021-14237,Doctor of Medicine (MD),817 La Luna,Cibolo,TX,78108-3970,29.608204,-98.224069,No
+CO2021-14240,Doctor of Medicine (MD),2235 Yorktown Dr,Ann Arbor,MI,48105-1501,42.307518,-83.698688,No
+CO2021-14243,Doctor of Medicine (MD),2159 W 7th St,Cleveland,OH,44113-3621,41.483415,-81.685653,No
+CO2021-14244,Doctor of Medicine (MD),1120 Polaris Pkwy Suite 210,Columbus,OH,43240,40.144682,-82.989348,No
+CO2021-14245,Respiratory Care Professional,6809 Mayfield Rd Apt 1573,Mayfield Heights,OH,44124-2269,41.5261912,-81.4328812,No
+CO2021-14248,Doctor of Medicine (MD),128 Woodland Park,Shelton,CT,06484-5352,41.288607,-73.11544,No
+CO2021-14250,Doctor of Medicine (MD),"6480 Harrison Ave Suite 201, Attn Paula Runion",Cincinnati,OH,45247,39.21128082,-84.63861847,No
+CO2021-14253,Doctor of Medicine (MD),11995 Singletree Ln Ste 500,Eden Prairie,MN,55344-5349,44.855886,-93.428824,No
+CO2021-14254,Doctor of Medicine (MD),3755 Sunburst Rdg,Cincinnati,OH,45248-2956,39.160943,-84.670251,No
+CO2021-14255,Doctor of Medicine (MD),317 Rose Hill Ln,Richmond,IN,47374-5975,39.826163,-84.856811,No
+CO2021-14256,Physician Assistant (PA),2703 Whitehaven Blvd,Steubenville,OH,43952-1119,40.372603,-80.652539,No
+CO2021-14263,Doctor of Medicine (MD),10236 Windsor Way,Powell,OH,43065-8759,40.1500531,-83.1009328,No
+CO2021-14264,Doctor of Medicine (MD),145 Aspen Woods Dr,Springboro,OH,45066,39.5658186,-84.2072889,No
+CO2021-14266,Doctor of Medicine (MD),6752 W GULF-TO-LAKE HWY %23101 %23101,CRYSTAL RIVER,FL,34429,28.889244,-82.548658,No
+CO2021-14268,Doctor of Medicine (MD),23901 Timberlane Dr,Beachwood,OH,44122-1556,41.494122,-81.510236,No
+CO2021-14270,Doctor of Medicine (MD),1096 N Grant Ave,Columbus,OH,43201,39.9880524,-82.99612549,No
+CO2021-14275,Doctor of Osteopathic Medicine (DO),325 N Main St Ste 206,Springboro,OH,45066-8005,39.563873,-84.23269,No
+CO2021-14279,Doctor of Osteopathic Medicine (DO),2216 CROSS CREEK TRAIL,CUYAHOGA FALLS,OH,44223,41.149528,-81.516153,No
+CO2021-14280,Doctor of Medicine (MD),1699 W Lane Ave,Columbus,OH,43221-3339,40.0064485,-83.0552062,No
+CO2021-14281,Doctor of Medicine (MD),292 Corning Dr,Bratenahl,OH,44108-1012,41.551747,-81.612002,No
+CO2021-14284,Doctor of Medicine (MD),Med Care Group 6975 w130th street,Parma Hts,OH,44130,41.37573,-81.784303,No
+CO2021-14287,Doctor of Osteopathic Medicine (DO),401 W. Front Street,Perrysburg,OH,43551,41.5581392,-83.6368975,No
+CO2021-14288,Doctor of Medicine (MD),11995 Singletree Lane Suite 500,Eden Prairie,MN,55344,44.855886,-93.428824,No
+CO2021-14290,Doctor of Medicine (MD),2006 Franklin St SE Ste 200,Huntsville,AL,35801-4537,34.719083,-86.575701,No
+CO2021-14291,Doctor of Osteopathic Medicine (DO),6142 Kingsbury Ave,Saint Louis,MO,63112-1102,38.652281,-90.298058,No
+CO2021-14292,Doctor of Medicine (MD),303 E Town St 2nd Fl,Columbus,OH,43215-4601,39.959421,-82.991222,No
+CO2021-14294,Doctor of Osteopathic Medicine (DO),1220 BELMONT AVENUE,YOUNGSTOWN,OH,44504,41.1164635,-80.6569027,No
+CO2021-14295,Doctor of Medicine (MD),95 ARCH ST STE 250,AKRON,OH,44304,41.082069,-81.499333,No
+CO2021-14296,Doctor of Medicine (MD),302 Alexander Ct,Copley,OH,44321-3401,41.130358,-81.673335,No
+CO2021-14298,Doctor of Medicine (MD),2807 BRENTWOOD RD NW,CANTON,OH,44708-M000,40.832499,-81.447283,No
+CO2021-14303,Doctor of Medicine (MD),4937 N Oakley Ave,Chicago,IL,60625-1925,41.971583,-87.686291,No
+CO2021-14305,Licensed Dietitian,13089 Woodin Rd,Chardon,OH,44024-9241,41.606273,-81.170879,No
+CO2021-14306,Doctor of Medicine (MD),8637 Hidden Hills Drive,Warren,OH,44484,41.21958,-80.734477,No
+CO2021-14308,Doctor of Medicine (MD),3690 ORANGE PLACE SUITE 430,BEACHWOOD,OH,44122,41.459599,-81.488881,No
+CO2021-14311,Doctor of Medicine (MD),2489 Overlook Road Apt 305,Cleveland,OH,44106,41.508278,-81.590867,No
+CO2021-14312,Doctor of Osteopathic Medicine (DO),49418 Croquet Ct,Indio,CA,92201-8800,33.689448,-116.254271,No
+CO2021-14320,Doctor of Osteopathic Medicine (DO),205 Flintwood Dr,Marietta,OH,45750-9359,39.432099,-81.491316,No
+CO2021-14322,Doctor of Medicine (MD),3593 Loomis Ridge RD,Parkersburg,WV,26104,39.2635153,-81.4172312,No
+CO2021-14324,Training Certificate (MD),27747 Liberty Dr,Warren,MI,48092-3577,42.497204,-83.070402,No
+CO2021-14325,Doctor of Osteopathic Medicine (DO),4535 Dressler Rd NW,Canton,OH,44718-2545,40.846771,-81.43574,No
+CO2021-14326,Massage Therapist (MT),2811 Spring Meadow Circle,Austintown,OH,44515,41.073017,-80.7462207,No
+CO2021-14327,Doctor of Medicine (MD),7953 S 3500 E,Cottonwood Heights,UT,84121-5832,40.606662,-111.795649,No
+CO2021-14329,Doctor of Medicine (MD),11995 Singletree Ln Ste 500,Eden Prairie,MN,55344-5349,44.855886,-93.428824,No
+CO2021-14330,Doctor of Medicine (MD),9695 Davis Rd,Loveland,OH,45140-1459,39.3025682,-84.27185,No
+CO2021-14331,Doctor of Osteopathic Medicine (DO),6050 Magnolia Place,Arcanum,OH,45304,39.95592,-84.57583,No
+CO2021-14332,Doctor of Medicine (MD),1989 Fiesta Dr,Lebanon,OH,45036-7311,39.466444,-84.156442,No
+CO2021-14333,Doctor of Medicine (MD),927 Pullman Place,Columbus,OH,43212,39.978645,-83.029396,No
+CO2021-14334,Doctor of Medicine (MD),800 Memories Ln,Westerville,OH,43081-2696,40.132234,-82.957799,No
+CO2021-14338,Massage Therapist (MT),6340 Rossi Dr,Canal Winchester,OH,43110,39.8820962,-82.8310162,No
+CO2021-14339,Physician Assistant (PA),1292 W. Garfield Rd.,Columbiana,OH,44408,40.917266,-80.67492,No
+CO2021-14344,Doctor of Medicine (MD),528 Lincoln Blvd,Steubenville,OH,43952-3253,40.3521969,-80.6320322,No
+CO2021-14345,Doctor of Medicine (MD),4775 Knightsbridge Blvd Suite 207,COLUMBUS,OH,43214,40.058525,-83.040339,No
+CO2021-14348,Doctor of Osteopathic Medicine (DO),1930 Tamarack Rd,Newark,OH,43055,40.040637,-82.464757,No
+CO2021-14350,Doctor of Medicine (MD),Rainbow Babies & Children's Hospital 11100 Euclid Avenue,Cleveland,OH,44106,41.50735092,-81.60716248,No
+CO2021-14351,Doctor of Medicine (MD),9050 Lewis Ave,Temperance,MI,48182-1608,41.7807057,-83.5686688,No
+CO2021-14354,Doctor of Medicine (MD),David Lang 12992 Sunset Circle NW,Uniontown,OH,44685,40.974585,-81.410584,No
+CO2021-14360,Massage Therapist (MT),2811 Spring Meadow Circle,Austintown,OH,44515,41.073017,-80.7462207,No
+CO2021-14372,Doctor of Medicine (MD),30855 Riviera Lane,WESTLAKE,OH,44145,41.448107,-81.96199,No
+CO2021-14376,Doctor of Medicine (MD),650 5th St Ste 405,San Francisco,CA,94107-1541,37.775596,-122.397987,No
+CO2021-14377,Doctor of Medicine (MD),7781 Kelly Dr,Dublin,OH,43016,40.1300607,-83.0995679,No
+CO2021-14378,Doctor of Medicine (MD),"Envision Physician Services 3695 Green Rd, %2322778",Beachwood,OH,44122,41.47053909,-81.51097107,No
+CO2021-14387,Doctor of Medicine (MD),5825 Yeazell Rd,Springfield,OH,45502,39.9600508,-83.6921373,No
+CO2021-14395,Doctor of Medicine (MD),1524 Sunset Blvd,Steubenville,OH,43952-1380,40.366829,-80.63171,No
+CO2021-14396,Doctor of Medicine (MD),1312 Turnberry Ln,Fort Wayne,IN,46814-9018,41.073021,-85.289548,No
+CO2021-14397,Doctor of Medicine (MD),6104 W Clinton Ave,Cleveland,OH,44102,41.483806,-81.72818,No
+CO2021-14398,L1 Limited Permit,3110 Englewood Dr,Stow,OH,44224-3135,41.16444,-81.450629,No
+CO2021-14399,Doctor of Medicine (MD),"TriHealth Cancer Institute 6949 Good Samaritan Drive, 1st Fl",Cincinnati,OH,45247,39.203446,-84.66977,No
+CO2021-14400,Doctor of Medicine (MD),690 WEDGEWOOD DR,AVON LAKE,OH,44012,41.485766,-81.994358,No
+CO2021-14401,Doctor of Medicine (MD),2216 Autumn Run,Wooster,OH,44691,40.8263977,-81.951354,No
+CO2021-14408,Doctor of Medicine (MD),7221 Engle Rd Ste 220,Fort Wayne,IN,46804-2233,41.04316,-85.236507,No
+CO2021-14409,Physician Assistant (PA),5335 Autumn Oak Dr,Middletown,OH,45044-5090,39.416028,-84.372571,No
+CO2021-14411,Doctor of Medicine (MD),1960 Tamarack Rd.,Newark,OH,43055,40.041425,-82.464776,No
+CO2021-14414,Physician Assistant (PA),3685 Fawn Dr,Canfield,OH,44406-9595,41.053267,-80.713984,No
+CO2021-14415,Doctor of Medicine (MD),6668 cosimo lane,pickerington,OH,43147,39.935417,-82.7099996,No
+CO2021-14419,Doctor of Medicine (MD),4406 Cranberry Ln,Sylvania,OH,43560-4473,41.6943556,-83.7288768,No
+CO2021-14422,Doctor of Osteopathic Medicine (DO),1237 Washington Ave Apt. 1006,Cleveland,OH,44113,41.4950348,-81.7044918,No
+CO2021-14423,Doctor of Osteopathic Medicine (DO),1929 Independence Blvd Apt H,Lancaster,OH,43130-1274,39.7491083,-82.564435,No
+CO2021-14424,Doctor of Medicine (MD),2660 darling rd,blacklick,OH,43004,40.033465,-82.815475,No
+CO2021-14430,Doctor of Medicine (MD),102 Fair Acres Dr,Sewickley,PA,15143-9368,40.5536998,-80.1551182,No
+CO2021-14433,Massage Therapist (MT),1376 W Clifton Blvd Lowr,Lakewood,OH,44107-3302,41.4847872,-81.8225658,No
+CO2021-14434,Training Certificate (MD),Cleveland Clinic Foundation C/O GME-NA23 9500 Euclid Avenue,Cleveland,OH,44195,41.50252,-81.621055,No
+CO2021-14436,Massage Therapist (MT),6409 Kellum Dr,Indianapolis,IN,46221-4616,39.670453,-86.260583,No
+CO2021-14437,Doctor of Medicine (MD),3131 FAIRFIELD AVE,CINCINNATI,OH,45207,39.134583,-84.472408,No
+CO2021-14438,Doctor of Medicine (MD),1327 Hunter Ave,Columbus,OH,43201-2772,39.989253,-83.009548,No
+CO2021-14439,Limited Permit,3690 County Road 51,Galion,OH,44833-9075,40.6604144,-82.836753,No
+CO2021-14442,Doctor of Medicine (MD),270 East State ST Suite 240,Alliance,OH,44601,40.902623,-81.102767,No
+CO2021-14445,Doctor of Osteopathic Medicine (DO),8351 London Groveport Rd,Grove City,OH,43123-8817,39.8527586,-83.2263418,No
+CO2021-14446,Doctor of Medicine (MD),900 Eden Ave SE,Atlanta,GA,30316-2503,33.73042,-84.358133,No
+CO2021-14448,Doctor of Medicine (MD),13306 Ashford Cir.,Goshen,KY,40026,38.3887378,-85.5931236,No
+CO2021-14449,Doctor of Medicine (MD),9876 Timbers Dr,Blue Ash,OH,45242-5547,39.239143,-84.394066,No
+CO2021-14450,Doctor of Medicine (MD),4329 Wyandotte Woods Blvd..,Dublin,OH,43016,40.1287445,-83.1055949,No
+CO2021-14452,Doctor of Medicine (MD),6058 quin abbey court east,Dublin,OH,43017,40.129673,-83.15443,No
+CO2021-14455,Doctor of Medicine (MD),13333 Northwest Fwy Ste 540,Houston,TX,77040-6166,29.849187,-95.507731,No
+CO2021-14456,Doctor of Medicine (MD),1490 W McNeill St Apt. %23110,Stephenville,TX,76401,32.2121875,-98.2151985,No
+CO2021-14460,Doctor of Medicine (MD),323 S Mimosa Ln Apt 6,Bridgeport,WV,26330-1941,39.3138489,-80.28579004,No
+CO2021-14461,Massage Therapist (MT),1438 Willow View Dr,Grove City,OH,43123-1641,39.905921,-83.032968,No
+CO2021-14462,Doctor of Medicine (MD),1882 RIVER RIDGE DRIVE,SPRING VALLEY,OH,45370,39.635913,-84.0394749,No
+CO2021-14464,Doctor of Medicine (MD),15988 EAST CHESTNUT ST PO BOX 286,MT EATON,OH,44659,40.694706,-81.700453,No
+CO2021-14466,Licensed Dietitian,4126 Claridge Drive,Youngstown,OH,44511-1010,41.079123,-80.7223451,No
+CO2021-14467,Doctor of Medicine (MD),547 Trace Dr.,Delaware,OH,43015,40.1841879,-83.0373411,No
+CO2021-14470,Doctor of Medicine (MD),"Spine Institute of Ohio, LLC 2060 Loch Lomond Dr.",Powell,OH,43065,40.1385516,-83.0527365,No
+CO2021-14473,Training Certificate (DO),1119 Biarritz Dr,Miami Beach,FL,33141-3631,25.854182,-80.130063,No
+CO2021-14476,Doctor of Medicine (MD),820 Dolwick Dr,Erlanger,KY,41018-2774,39.038673,-84.594874,No
+CO2021-14477,Doctor of Medicine (MD),602 51ST ST,VIENNA,WV,26105,39.339512,-81.538559,No
+CO2021-14478,Doctor of Medicine (MD),5500 PRESTWICK LANE,HIGHLAND HTS,OH,44143,41.554366,-81.48099,No
+CO2021-14486,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14489,Doctor of Medicine (MD),204 19th St NW,Canton,OH,44709-3849,40.819205,-81.370564,No
+CO2021-14496,Doctor of Osteopathic Medicine (DO),543 Park Avenue,Hamilton,OH,45013,39.40708,-84.572133,No
+CO2021-14501,Doctor of Medicine (MD),2896 Washington Blvd,Cleveland Heights,OH,44118-2457,41.505194,-81.57689,No
+CO2021-14510,Doctor of Medicine (MD),46 Waterford Ct,Granville,OH,43023-9501,40.0689903,-82.4858527,No
+CO2021-14513,Doctor of Medicine (MD),3011 Paris Pike,Lexington,KY,40511-9548,38.0933458,-84.4315333,No
+CO2021-14516,Massage Therapist (MT),1377 W 61st St,Cleveland,OH,44102-2103,41.485074,-81.728092,No
+CO2021-14519,Doctor of Medicine (MD),694 Ridgecrest Road,AKRON,OH,44303,41.11524,-81.543507,No
+CO2021-14526,Doctor of Osteopathic Medicine (DO),80 Sterncrest Drive,Moreland Hills,OH,44022,41.431564,-81.456847,No
+CO2021-14529,Doctor of Osteopathic Medicine (DO),510 Hill Street,Bucyrus,OH,44820,40.815746,-82.981082,No
+CO2021-14530,Doctor of Medicine (MD),909 Ridgebrook Rd Ste 300,Sparks,MD,21152-9477,39.52457,-76.652826,No
+CO2021-14532,Doctor of Medicine (MD),8572 Reserve Dr.,Poland,OH,44514,40.989345,-80.658961,No
+CO2021-14536,Doctor of Osteopathic Medicine (DO),3836 Dayspring Dr,Hilliard,OH,43026-5720,40.049336,-83.120685,No
+CO2021-14537,Doctor of Osteopathic Medicine (DO),1060 Mill Creek Rd,Gallipolis,OH,45631-8240,38.8302123,-82.1846097,No
+CO2021-14538,Physician Assistant (PA),201 Sandpointe Ave Ste 600,Santa Ana,CA,92707-8700,33.698059,-117.866388,No
+CO2021-14539,Acupuncturist (ACU),2692 Madison Rd Ste N1-118,Cincinnati,OH,45208-1321,39.146403,-84.445135,No
+CO2021-14540,Doctor of Medicine (MD),312 Southwood Trl,Beavercreek,OH,45440-4507,39.6842737,-84.0800491,No
+CO2021-14543,Doctor of Medicine (MD),10506A Montgomery Rd,Montgomery,OH,45242-4487,39.252243,-84.341129,No
+CO2021-14544,Doctor of Medicine (MD),Great Lakes Gastroenterology 2702 Navarre Ave. Suite 320,Oregon,OH,43606,41.636201,-83.484491,No
+CO2021-14553,Doctor of Medicine (MD),1055 VALLEY LANE,CINCINNATI,OH,45229,39.151435,-84.477411,No
+CO2021-14554,Doctor of Osteopathic Medicine (DO),8021 CHATEAU LANE,WESTERVILLE,OH,43082,40.1468514,-82.8870157,No
+CO2021-14556,Massage Therapist (MT),4892 Corliss Rd,Lyndhurst,OH,44124-1166,41.5331898,-81.5035062,No
+CO2021-14557,L1 Limited Permit,1640 Raintree Ct,Elsmere,KY,41018-1897,38.9954794,-84.5908151,No
+CO2021-14558,Doctor of Medicine (MD),20494 DONEGAL LANE,STRONGSVILLE,OH,44149,41.27874,-81.849857,No
+CO2021-14561,Doctor of Medicine (MD),386 Beechnut Hill,Akron,OH,44333,41.147429,-81.650176,No
+CO2021-14562,Doctor of Medicine (MD),4809 Silverwyck Pl,Dayton,OH,45429-1932,39.676666,-84.178211,No
+CO2021-14563,Doctor of Osteopathic Medicine (DO),The Crystal Clinic 3975 Embassy parkway,Akron,OH,44333,41.141003,-81.652754,No
+CO2021-14565,Doctor of Medicine (MD),24450 Woodside Ln,Beachwood,OH,44122-4078,41.471619,-81.505024,No
+CO2021-14566,Doctor of Medicine (MD),2311 Highway 99 Apt A205,Edmonds,WA,98026,47.8001899,-122.3314713,No
+CO2021-14567,Doctor of Medicine (MD),2500 PHILADELPHIA DR,DAYTON,OH,45405,39.792893,-84.234466,No
+CO2021-14568,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14571,Doctor of Medicine (MD),3070 Pebble Ct,Maumee,OH,43537-8930,41.5848828,-83.7149191,No
+CO2021-14575,Doctor of Medicine (MD),Horstman & Klir 109 S Broad Street,Kalida,OH,45853,40.98348236,-84.19939423,No
+CO2021-14576,Doctor of Podiatric Medicine (DPM),11850 Mayfield Road Suite 2,Chardon,OH,44024,41.530249,-81.215105,No
+CO2021-14583,Doctor of Osteopathic Medicine (DO),700 W Maple St,Clyde,OH,43410-1414,41.298312,-82.989461,No
+CO2021-14584,Doctor of Podiatric Medicine (DPM),14401 Snow Road Suite %23102,Brook Park,OH,44142,41.404546,-81.794917,No
+CO2021-14587,Doctor of Medicine (MD),2200 Dorset Road,Columbus,OH,43221-3144,40.013556,-83.070418,No
+CO2021-14592,Doctor of Medicine (MD),140 W Main St Suite 100,Springfield,OH,45502-1312,39.925053,-83.813896,No
+CO2021-14597,Doctor of Medicine (MD),4168 Back Ridge Way,Monclova,OH,43542,41.564386,-83.732334,No
+CO2021-14600,Doctor of Medicine (MD),5006 Butterworth Green Dr,New Albany,OH,43054-7067,40.087285,-82.804505,No
+CO2021-14606,Doctor of Medicine (MD),3433 AGLER RD SUITE 1100,Columbus,OH,43219-3387,40.019764,-82.919703,No
+CO2021-14608,Doctor of Medicine (MD),975 Foxtail Cir,Tipp City,OH,45371-2776,39.9465988,-84.187814,No
+CO2021-14610,Doctor of Medicine (MD),2502 Pearl St,Santa Monica,CA,90405-2834,34.019873,-118.461021,No
+CO2021-14612,Doctor of Medicine (MD),11201 Shaker Blvd Suite 240,CLEVELAND,OH,44104,41.48451,-81.608138,No
+CO2021-14613,Doctor of Medicine (MD),155 FIFTH STREET NE PARKVIEW CENTER,BARBERTON,OH,44203,41.014377,-81.588973,No
+CO2021-14614,Respiratory Care Professional,19200 Space Center Blvd Apt 630,Houston,TX,77058-3841,29.564991,-95.077246,No
+CO2021-14617,Doctor of Medicine (MD),1882 RIVER RIDGE DRIVE,SPRING VALLEY,OH,45370,39.635913,-84.0394749,No
+CO2021-14621,Doctor of Osteopathic Medicine (DO),180 Huntington Trl,Cortland,OH,44410,41.3108478,-80.7238462,No
+CO2021-14625,Doctor of Medicine (MD),8008 Colony Oaks Dr.,Toledo,OH,43617,41.672392,-83.7351,No
+CO2021-14627,Doctor of Osteopathic Medicine (DO),11465 Springfield Pike,Springdale,OH,45246,39.283334,-84.485861,No
+CO2021-14629,Doctor of Medicine (MD),1126 S MAIN ST,DAYTON,OH,45409,39.742268,-84.186724,No
+CO2021-14630,Doctor of Osteopathic Medicine (DO),486 ELY RD,AKRON,OH,44313,41.108219,-81.597758,No
+CO2021-14631,Doctor of Medicine (MD),29395 N PARK BLVD,SOLON,OH,44139,41.419315,-81.471171,No
+CO2021-14632,Doctor of Medicine (MD),95 Hall Street Lower,Akron,OH,44303,41.087666,-81.528991,No
+CO2021-14633,Doctor of Osteopathic Medicine (DO),2740 Mack Rd,Fairfield,OH,45014-5161,39.311708,-84.527808,No
+CO2021-14634,Physician Assistant (PA),217 MARSHALL AVE,SANDUSKY,OH,44870,41.4180105,-82.692827,No
+CO2021-14637,Doctor of Medicine (MD),47 Morning Song Lane,Hudson,OH,44236,41.249113,-81.441901,No
+CO2021-14638,Doctor of Medicine (MD),1991 Crocker Rd Ste 600,Westlake,OH,44145-6976,41.462729,-81.949797,No
+CO2021-14640,Doctor of Medicine (MD),"8117 Preston Road, Ste 800 Dallas",Dallas,TX,75225,32.861006,-96.806072,No
+CO2021-14642,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14643,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14647,Doctor of Medicine (MD),11995 Singletree Lane Suite 500,Eden Prairie,MN,55344,44.855886,-93.428824,No
+CO2021-14649,Physician Assistant (PA),3117 Hancock Ave,Cleveland,OH,44113-4038,41.479629,-81.706544,No
+CO2021-14650,Physician Assistant (PA),441 Saint Lawrence Blvd,Eastlake,OH,44095-1310,41.67433,-81.414197,No
+CO2021-14651,Doctor of Medicine (MD),27 Bristol Ln,Rocky River,OH,44116-3779,41.458086,-81.867879,No
+CO2021-14652,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14653,Doctor of Medicine (MD),4144 CRISTO REY ST,FARMINGTON,NM,87401,36.766749,-108.19942,No
+CO2021-14654,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14655,Doctor of Medicine (MD),38610 flanders dr,solon,OH,44139,41.371834,-81.403611,No
+CO2021-14660,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14661,Physician Assistant (PA),552 Idora Ln,Struthers,OH,44471-1413,41.0424006,-80.5931018,No
+CO2021-14663,Doctor of Medicine (MD),13333 Northwest Fwy Ste 540,Houston,TX,77040-6166,29.849187,-95.507731,No
+CO2021-14666,Doctor of Medicine (MD),1991 Crocker Rd Ste 600,Westlake,OH,44145-6976,41.462729,-81.949797,No
+CO2021-14667,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14668,Doctor of Medicine (MD),4595 TRUEMAN BLVD,COLUMBUS,OH,43026,40.047554,-83.124703,No
+CO2021-14672,Doctor of Medicine (MD),6112 Penfield Ln,Solon,OH,44139-5936,41.393817,-81.406028,No
+CO2021-14673,Doctor of Medicine (MD),4009 John S Raboteau Wynd,Raleigh,NC,27612-5330,35.83432,-78.708164,No
+CO2021-14674,Doctor of Medicine (MD),6670 Possum Run Rd,Dayton,OH,45440-4040,39.650338,-84.087059,No
+CO2021-14675,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14676,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14678,Doctor of Medicine (MD),10789 Range Line Rd,Weston,OH,43569-9729,41.3112729,-83.7670534,No
+CO2021-14680,Doctor of Osteopathic Medicine (DO),3517 Choke Cherry Lane,Klamath Falls,OR,97603,42.194283,-121.6376028,No
+CO2021-14685,Doctor of Medicine (MD),56 Hawthorne Drive,LIMA,OH,45805,40.7088575,-84.1713812,No
+CO2021-14686,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14688,Doctor of Medicine (MD),2150 W. Central Ave.,TOLEDO,OH,43606,41.678263,-83.596559,No
+CO2021-14690,Doctor of Medicine (MD),3844 Woodpath Trail,Westlake,OH,44145,41.434279,-81.911381,No
+CO2021-14692,Massage Therapist (MT),251 2nd St,Morrow,OH,45152-1237,39.35311,-84.126704,No
+CO2021-14700,Doctor of Medicine (MD),841 N Rios Ave,Solana Beach,CA,92075-1269,33.003233,-117.273243,No
+CO2021-14703,Doctor of Medicine (MD),4703 Turnbridge Rd,Toledo,OH,43623-2742,41.7009228,-83.6680525,No
+CO2021-14707,Doctor of Medicine (MD),5757 Monclova Rd Ste 27,Maumee,OH,43537-1863,41.558118,-83.678522,No
+CO2021-14710,Massage Therapist (MT),4107 Parkway Dr,Dayton,OH,45416-1636,39.808244,-84.268231,No
+CO2021-14711,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14713,Doctor of Medicine (MD),12061 Lake Ave,Lakewood,OH,44107-1800,41.489903,-81.77487,No
+CO2021-14714,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14716,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14717,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14719,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14721,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14723,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14725,Doctor of Medicine (MD),PO Box 376,Kingsville,OH,44048,41.85683823,-80.66503143,No
+CO2021-14726,Doctor of Medicine (MD),581 Buckeye Trl,Chillicothe,OH,45601-7852,39.4420017,-82.9385245,No
+CO2021-14727,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14729,Doctor of Medicine (MD),1905 Garry Oaks Ave Unit B,Dupont,WA,98327-6708,47.097711,-122.652513,No
+CO2021-14730,Doctor of Medicine (MD),13333 Northwest Fwy Ste 540,Houston,TX,77040-6166,29.849187,-95.507731,No
+CO2021-14731,Doctor of Medicine (MD),303 E Town St 2nd Fl,Columbus,OH,43215-4601,39.959421,-82.991222,No
+CO2021-14737,Doctor of Osteopathic Medicine (DO),9176 Emerald Isle St NW,Canal Fulton,OH,44614-8788,40.88958,-81.520461,No
+CO2021-14744,Doctor of Medicine (MD),931 Chatham Ln,Columbus,OH,43221-2417,40.019577,-83.036958,No
+CO2021-14746,Respiratory Care Professional,123 Hillcrest Ave,Oil City,PA,16301-1207,41.440614,-79.683958,No
+CO2021-14753,Doctor of Medicine (MD),3510 Elm Leaf Circle,Lexington,OH,44904,40.6572788,-82.596851,No
+CO2021-14756,Massage Therapist (MT),8584 Hickory Hollow Dr,Chardon,OH,44024,41.6363157,-81.22355,No
+CO2021-14757,Doctor of Medicine (MD),2122 DEVONSHIRE RD,ANN ARBOR,MI,48104,42.268677,-83.716868,No
+CO2021-14759,Doctor of Medicine (MD),100 West McCreight ave Suite,Springfield,OH,45504,39.9396268,-83.8112872,No
+CO2021-14760,Doctor of Osteopathic Medicine (DO),5480 Sentinel Oak Dr,Mason,OH,45040-7691,39.391205,-84.313961,No
+CO2021-14764,Doctor of Medicine (MD),1250 S Miami Ave Apt 2905,Miami,FL,33130-4118,25.762097,-80.193539,No
+CO2021-14769,Doctor of Medicine (MD),4 Sarah St NW,Rome,GA,30165-2592,34.3217482,-85.1773774,No
+CO2021-14774,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14775,Doctor of Osteopathic Medicine (DO),15 Anthony Ln,Ft Mitchell,KY,41017-2913,39.0376983,-84.5545117,No
+CO2021-14777,Doctor of Osteopathic Medicine (DO),5980 Turnwood Dr.,Westerville,OH,43081,40.094344,-82.85712,No
+CO2021-14778,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14780,Doctor of Medicine (MD),1255 S State St Unit 1407,Chicago,IL,60605-3580,41.86621,-87.626903,No
+CO2021-14781,Doctor of Medicine (MD),6200 Whipple Ave NW,North Canton,OH,44720-7624,40.871767,-81.420953,No
+CO2021-14787,Doctor of Medicine (MD),1123 Kavanaugh Blvd,Little Rock,AR,72205-4317,34.752945,-92.307095,No
+CO2021-14790,Doctor of Medicine (MD),23303 Ranch Rd.,Beachwood,OH,44122,41.491129,-81.51466,No
+CO2021-14791,Doctor of Medicine (MD),4859 SNOW BLOSSOM LANE,BRECKSVILLE,OH,44141,41.2822267,-81.6650642,No
+CO2021-14794,Doctor of Medicine (MD),23953 Timberlane Dr,Beachwood,OH,44122-1556,41.494122,-81.509944,No
+CO2021-14796,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14802,Physician Assistant (PA),2366 Monte Vista St,Pasadena,CA,91107-2518,34.15511,-118.101711,No
+CO2021-14803,Doctor of Medicine (MD),1527 Boundary Peak Way,Las Vegas,NV,89135-1041,36.15473,-115.319681,No
+CO2021-14804,Physician Assistant (PA),201 Sandpointe Ave Ste 600,Santa Ana,CA,92707-8700,33.698059,-117.866388,No
+CO2021-14808,Doctor of Medicine (MD),2814 Back Bay Dr.,Maumee,OH,43537,41.5896937,-83.7274683,No
+CO2021-14815,Doctor of Medicine (MD),2100 Ohio Blvd,Terre Haute,IN,47803-2124,39.465913,-87.385672,No
+CO2021-14817,Doctor of Medicine (MD),10615 Montgomery Rd Ste 202,Montgomery,OH,45242-4460,39.25546,-84.344191,No
+CO2021-14821,Doctor of Medicine (MD),28099 Shaker Blvd.,Pepper Pike,OH,44124,41.479079,-81.47995,No
+CO2021-14823,Doctor of Medicine (MD),303 N BROOKS ST,Manning,SC,29102,33.7014214,-80.2110219,No
+CO2021-14827,Physician Assistant (PA),9193 Lakeside St,Tipp City,OH,45371-2657,39.886291,-84.115978,No
+CO2021-14828,Doctor of Medicine (MD),7460 Whispering Oak Dr,Sylvania,OH,43560-1331,41.70731,-83.723672,No
+CO2021-14832,Doctor of Osteopathic Medicine (DO),10093 Yearling Run S,Dayton,OH,45458-5049,39.595778,-84.137366,No
+CO2021-14836,Doctor of Medicine (MD),11995 Singletree Ln Ste 500,Eden Prairie,MN,55344-5349,44.855886,-93.428824,No
+CO2021-14841,Doctor of Medicine (MD),76 STRATFORD RD,HUDSON,OH,44236,41.23983,-81.458504,No
+CO2021-14846,Respiratory Care Professional,9519 Bear Creek Dr,San Antonio,TX,78245-1203,29.4293274,-98.6722556,No
+CO2021-14851,Doctor of Medicine (MD),3905 Tarrington Ln,Upper Arlington,OH,43220-2299,40.0614865,-83.0975651,No
+CO2021-14857,Doctor of Medicine (MD),1671 West Main Street,Newark,OH,43055,40.043485,-82.462498,No
+CO2021-14860,Doctor of Medicine (MD),12274 Gaines Way,Walton,KY,41094-9354,38.885043,-84.635166,No
+CO2021-14867,Doctor of Medicine (MD),306 E Blenkner St,Columbus,OH,43206-1262,39.952126,-82.990285,No
+CO2021-14869,Doctor of Osteopathic Medicine (DO),315 Nathan Dr,Cinnaminson,NJ,08077-1584,40.017939,-75.004892,No
+CO2021-14872,Doctor of Osteopathic Medicine (DO),1003 Bellefontaine Ave Ste 125,Lima,OH,45804-1867,40.735328,-84.085469,No
+CO2021-14874,Doctor of Medicine (MD),6816 Bellgreen Dr,Houston,TX,77030-2002,29.7073697,-95.4116882,No
+CO2021-14877,Doctor of Medicine (MD),32425 Woodsdale Ln,Solon,OH,44139-1338,41.417154,-81.448558,No
+CO2021-14880,Doctor of Medicine (MD),3579 Bainbridge Road,Cleveland Heights,OH,44118,41.509431,-81.551497,No
+CO2021-14882,Massage Therapist (MT),2999 Greenleaf Rd,Akron,OH,44312-5025,41.000484,-81.415095,No
+CO2021-14885,Doctor of Medicine (MD),2790 SEDGE GRASS TRAIL,STOW,OH,44224,41.1880052,-81.3936208,No
+CO2021-14886,Massage Therapist (MT),656 S. Clinton,Defiance,OH,43512,41.2826085,-84.3651127,No
+CO2021-14887,Respiratory Care Professional,PO Box 164,Straughn,IN,47387-0164,39.80910492,-85.29113007,No
+CO2021-14888,Special Activity Certificate,"Bonezzi, Switzer, Polito & Hupp Co., LPA 1001 Lakeside Avenue Suite %231700",Cleveland,OH,44114,41.50520325,-81.68280792,No
+CO2021-14889,Doctor of Osteopathic Medicine (DO),2785 Scarborough Place,Xenia,OH,45385,39.6820108,-84.0352872,No
+CO2021-14891,Doctor of Medicine (MD),6355 Pearl Rd Suite A,PARMA,OH,44130,41.387762,-81.764972,No
+CO2021-14892,Massage Therapist (MT),4232 Maiden Ct,Brunswick,OH,44212-2941,41.2410131,-81.8389475,No
+CO2021-14896,Doctor of Medicine (MD),30760 Stillwater Ln,Solon,OH,44139-1578,41.416925,-81.463538,No
+CO2021-14902,Doctor of Medicine (MD),147 Quaker Ridge Dr,Akron,OH,44313-3524,41.113387,-81.607686,No
+CO2021-14903,Doctor of Medicine (MD),9970 Gatewood Dr,Brecksville,OH,44141,41.291614,-81.6035158,No
+CO2021-14904,Physician Assistant (PA),845 N Main St,Germantown,OH,45327-1613,39.634288,-84.371717,No
+CO2021-14906,Doctor of Medicine (MD),3916 NORTH CLIFF LANE,CINCINNATI,OH,45220,39.156793,-84.522384,No
+CO2021-14907,Doctor of Medicine (MD),1880 Mackenzie Dr Ste 210,Columbus,OH,43220-2956,40.051963,-83.070043,No
+CO2021-14908,Doctor of Medicine (MD),15401 SUFFOLK LANE,CHAGRIN FALLS,OH,44022,41.4488128,-81.3626828,No
+CO2021-14911,Physician Assistant (PA),845 N Main St,Germantown,OH,45327-1613,39.634288,-84.371717,No
+CO2021-14914,Doctor of Osteopathic Medicine (DO),7874 CLIFFVIEW DR,POLAND,OH,44514,41.002388,-80.60601,No
+CO2021-14915,Doctor of Medicine (MD),46 Waterford Ct,Granville,OH,43023-9501,40.0689903,-82.4858527,No
+CO2021-14916,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14922,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14924,Training Certificate (MD),1445 W 6th Ave Apt D,Columbus,OH,43212-2426,39.989639,-83.045237,No
+CO2021-14926,Physician Assistant (PA),646 MARILYN DR,ROSSFORD,OH,43460,41.5969598,-83.566483,No
+CO2021-14933,Doctor of Medicine (MD),840 COLLIERS WAY,WEIRTON,WV,26062,40.3866346,-80.5339427,No
+CO2021-14942,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14943,Licensed Dietitian,3716 Hyde Park Ave.,Cincinnati,OH,45209,39.145214,-84.436899,No
+CO2021-14945,Doctor of Medicine (MD),6836 MADDUX DR,CINCINNATI,OH,45230,39.091566,-84.36832,No
+CO2021-14947,Doctor of Medicine (MD),604 Olentangy Reserve Pl,Lewis Center,OH,43035-8545,40.145028,-83.003278,No
+CO2021-14948,Doctor of Medicine (MD),661 Walden Way,Sugarcreek Township,OH,45440-3843,39.6780731,-84.1065048,No
+CO2021-14950,Doctor of Medicine (MD),381 Northview Dr,Columbus,OH,43209,39.977777,-82.935605,No
+CO2021-14951,Doctor of Medicine (MD),3710 N Meridian St Apt 223,Indianapolis,IN,46208-4332,39.82267,-86.157311,No
+CO2021-14952,Licensed Dietitian,5270 Cimarron Heights Way Unit 207,Columbus,OH,43228-6036,39.97342,-83.145642,No
+CO2021-14956,Doctor of Osteopathic Medicine (DO),374 E Tompkins St  Apt 2,Columbus,OH,43202,40.014432,-83.001005,No
+CO2021-14960,Doctor of Osteopathic Medicine (DO),142 Yaples Orchard Drive,Chillicothe,OH,45601,39.3528657,-83.0240443,No
+CO2021-14968,Doctor of Medicine (MD),33350 SHAKER BLVD,PEPPER PIKE,OH,44124,41.4780798,-81.4409607,No
+CO2021-14971,Respiratory Care Professional,668 Ebb Tomblin Rd Apt B3,Thurman,OH,45685-9747,38.9521106,-82.4866375,No
+CO2021-14972,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-14973,Physician Assistant (PA),1845 Fawnmore Ct,Henderson,NV,89012-3155,36.015285,-115.058579,No
+CO2021-14974,Doctor of Medicine (MD),1050 Isaac streets dr suite 140,oregon,OH,43616,41.633718,-83.483065,No
+CO2021-14975,Licensed Dietitian,2833 Harpster Rd,Rittman,OH,44270-9627,41.005222,-81.78976,No
+CO2021-14977,Doctor of Medicine (MD),12096 Venice Ct,Frisco,TX,75035-2299,33.1771357,-96.8017199,No
+CO2021-14980,Doctor of Medicine (MD),17360 Old Tannery Trail,CHAGRIN FALLS,OH,44023,41.397294,-81.362338,No
+CO2021-14982,Doctor of Medicine (MD),2220 Haverford Rd,Columbus,OH,43220-4318,40.046168,-83.077526,No
+CO2021-14983,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-14984,Doctor of Medicine (MD),30008 ST ANDREWS,PERRYSBURG,OH,43551,41.585298,-83.582111,No
+CO2021-14986,Doctor of Medicine (MD),4168 Holiday St NW,CANTON,OH,44718,40.850886,-81.426573,No
+CO2021-14990,Doctor of Medicine (MD),6767 Greenspire drive,Lewis Center,OH,43035,40.183955,-82.9943574,No
+CO2021-14993,Doctor of Medicine (MD),2338 Cheshire Woods Rd,Toledo,OH,43617-1205,41.6629401,-83.7080981,No
+CO2021-15536,Doctor of Medicine (MD),1123 Kavanaugh Blvd,Little Rock,AR,72205-4317,34.752945,-92.307095,No
+CO2021-15537,Doctor of Medicine (MD),7258 SE 2nd Ave,Ocala,FL,34480-6610,29.1142718,-82.134057,No
+CO2021-15538,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15539,Massage Therapist (MT),200 Race St,Berea,OH,44017-2321,41.361992,-81.866881,No
+CO2021-15543,Doctor of Medicine (MD),3416 Pape Ave.,Cincinnati,OH,45208,39.140476,-84.420028,No
+CO2021-15545,Doctor of Osteopathic Medicine (DO),5022 State Route 588,Gallipolis,OH,45631-8590,38.83703,-82.281383,No
+CO2021-15546,Doctor of Medicine (MD),3690 ORANGE PLACE SUITE 430,BEACHWOOD,OH,44122,41.459599,-81.488881,No
+CO2021-15548,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15549,Doctor of Medicine (MD),365 Evergreen Dr,Vacaville,CA,95688-2136,38.3706,-122.002336,No
+CO2021-15554,Licensed Dietitian,2232 Garden Dr,Avon,OH,44011-2609,41.452362,-82.027914,No
+CO2021-15555,Doctor of Osteopathic Medicine (DO),1000 Hollister Ln Apt 1342,Perrysburg,OH,43551-6944,41.525071,-83.644874,No
+CO2021-15559,Doctor of Medicine (MD),12550 Lake Ave Apt 908,Cleveland,OH,44107-1568,41.4926483,-81.777525,No
+CO2021-15560,Doctor of Medicine (MD),300 Spruce St,Louisville,CO,80027-1942,39.977556,-105.138851,No
+CO2021-15566,Doctor of Medicine (MD),4500 N Lewis Ave,Sioux Falls,SD,57104,43.596245,-96.696818,No
+CO2021-15573,Doctor of Medicine (MD),Bricker Hall 190 N Oval,columbus,OH,43210,40.00060654,-83.01795959,No
+CO2021-15575,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15583,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15585,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15591,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15592,Doctor of Medicine (MD),396 Norwich Drive,Broadview Hts,OH,44147,41.282684,-81.67995,No
+CO2021-15594,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15595,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15596,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15597,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15598,Doctor of Osteopathic Medicine (DO),602 MEADOWRIDGE WAY,HUDSON,OH,44236,41.263783,-81.491395,No
+CO2021-15599,Doctor of Medicine (MD),8117 Preston Road Suite 800,Dallas,TX,75225,32.861006,-96.806072,No
+CO2021-15600,Doctor of Osteopathic Medicine (DO),17310 Wright Street Suite 103,Omaha,NE,68130,41.233332,-96.185623,No
+CO2021-15603,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15604,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15605,Doctor of Medicine (MD),561 W. Central Avenue,Delaware,OH,43015,40.305626,-83.089768,No
+CO2021-15608,Doctor of Medicine (MD),60 South Ln,Moreland Hills,OH,44022-1145,41.4432105,-81.4141954,No
+CO2021-15611,Doctor of Osteopathic Medicine (DO),602 MEADOWRIDGE WAY,HUDSON,OH,44236,41.263783,-81.491395,No
+CO2021-15612,Doctor of Medicine (MD),785 Heatherwoode Circle,Springboro,OH,45066,39.5363367,-84.2273467,No
+CO2021-15614,Doctor of Medicine (MD),"10550 Montgomery Rd., Suite %2312",Cincinnati,OH,45242,39.253279,-84.343038,No
+CO2021-15615,Doctor of Medicine (MD),245 South Garber Drive,Tipp City,OH,45371-1183,39.9579145,-84.1859045,No
+CO2021-15617,Respiratory Care Professional,17908 Valleyview Ave,Cleveland,OH,44135-1130,41.441842,-81.822226,No
+CO2021-15621,Doctor of Medicine (MD),557 Laguna Point,Holland,OH,43528,41.630267,-83.755894,No
+CO2021-15622,Doctor of Medicine (MD),449 Tillotson Place,Centerville,OH,45458,39.625258,-84.172565,No
+CO2021-15623,Doctor of Medicine (MD),One Elizabeth Place West Medical Plaza Suite 210,Dayton,OH,45417,39.498917,-84.314391,No
+CO2021-15624,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15625,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15628,Doctor of Medicine (MD),928 Nelaview Rd.,Cleveland Heights,OH,44112,41.534933,-81.559573,No
+CO2021-15632,Doctor of Medicine (MD),5865 Great Court Cir NW,Massillon,OH,44646-7882,40.8695867,-81.5052545,No
+CO2021-15634,Doctor of Osteopathic Medicine (DO),2388 County Line Road,Beavercreek,OH,45430,39.710247,-84.104686,No
+CO2021-15635,Doctor of Osteopathic Medicine (DO),2740 Mack Rd,Fairfield,OH,45014-5161,39.311708,-84.527808,No
+CO2021-15639,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15645,Doctor of Medicine (MD),"RADIOLOGY, INC. 5221 US ROUTE 60 EAST",HUNTINGTON,WV,25705,38.4111983,-82.3394917,No
+CO2021-15646,Doctor of Medicine (MD),2657 MacNaughten Street,North Canton,OH,44720,40.910216,-81.393815,No
+CO2021-15660,Doctor of Medicine (MD),462 Pineview Dr.,Gallipolis,OH,45631,38.841795,-82.281856,No
+CO2021-15663,Doctor of Medicine (MD),225 Golf Club Dr,Nicholasville,KY,40356-6015,37.95721,-84.612059,No
+CO2021-15664,Doctor of Osteopathic Medicine (DO),2740 Mack Rd,Fairfield,OH,45014-5161,39.311708,-84.527808,No
+CO2021-15665,Doctor of Medicine (MD),Bricker Hall 190 N Oval,columbus,OH,43210,40.00060654,-83.01795959,No
+CO2021-15666,Doctor of Medicine (MD),2334 Rollingwood Dr,Medina,OH,44256-5989,41.1254532,-81.7719177,No
+CO2021-15667,Doctor of Osteopathic Medicine (DO),8397 Lakebrook Drive,Findlay,OH,45840,41.045379,-83.580034,No
+CO2021-15668,Doctor of Medicine (MD),PO Box 331975,Nashville,TN,37203,36.15070343,-86.79434967,No
+CO2021-15669,Doctor of Medicine (MD),612 coleridge ave,dayton,OH,45426,39.802413,-84.300319,No
+CO2021-15670,Doctor of Medicine (MD),3516 Meadow Lane,Kettering,OH,45419,39.695804,-84.178079,No
+CO2021-15671,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15672,Doctor of Medicine (MD),19 Alpine Dr,Fort Thomas,KY,41075-2401,39.0608957,-84.4490657,No
+CO2021-15674,Doctor of Medicine (MD),1208 Hook Estate Dr,Dayton,OH,45405-1960,39.793946,-84.232719,No
+CO2021-15675,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15677,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15678,Doctor of Medicine (MD),2237 Walter Rd,Westlake,OH,44145-4322,41.45511,-81.892121,No
+CO2021-15684,Doctor of Osteopathic Medicine (DO),193 Lake Bluff Dr,Columbus,OH,43235,40.1302405,-83.010963,No
+CO2021-15685,Doctor of Osteopathic Medicine (DO),909 Domnus Ln Apt 103,Las Vegas,NV,89144-0856,36.182571,-115.308476,No
+CO2021-15686,Doctor of Medicine (MD),7440 OAK HILL DR,SYLVANIA,OH,43560,41.7099694,-83.7230844,No
+CO2021-15687,Doctor of Medicine (MD),6403 BAUERVIC BLVD,WEST BLOOMFIELD,MI,48322,42.544552,-83.369825,No
+CO2021-15690,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15694,Doctor of Osteopathic Medicine (DO),1410 GIBSON RD,LOVELAND,OH,45140,39.2452803,-84.2059792,No
+CO2021-15698,Doctor of Osteopathic Medicine (DO),21917 Woodshadow Way,Land O Lakes,FL,34637-7900,28.28269,-82.453726,No
+CO2021-15699,Doctor of Osteopathic Medicine (DO),7811 Lindell Ln,Powell,OH,43065-7138,40.1855182,-83.0694876,No
+CO2021-15701,Doctor of Medicine (MD),2651 Chateau Dr,Port Clinton,OH,43452-1795,41.562495,-82.840081,No
+CO2021-15702,Doctor of Medicine (MD),3571 Potomac Ave,Cincinnati,OH,45208-1012,39.143055,-84.457468,No
+CO2021-15705,Doctor of Medicine (MD),974 PHILLIPS RD,CINCINNATI,OH,45230,39.069606,-84.390742,No
+CO2021-15708,Doctor of Medicine (MD),7140 Saint Ursula Dr,Canfield,OH,44406-8052,41.047255,-80.726313,No
+CO2021-15712,Doctor of Medicine (MD),1010 Woodman Drive,DAYTON,OH,45432,39.751539,-84.119116,No
+CO2021-15714,Doctor of Medicine (MD),845 N High St Unit 502,Columbus,OH,43215-6443,39.979628,-83.004506,No
+CO2021-15716,Doctor of Osteopathic Medicine (DO),3657 Willow Lane Dr,Toledo,OH,43615-1160,41.685608,-83.654032,No
+CO2021-15721,Training Certificate (DPM),7218 Greenleaf Ave,Parma,OH,44130-5021,41.3688928,-81.7781463,No
+CO2021-15725,Physician Assistant (PA),6884 Sunningdale Dr,Westerville,OH,43082-7744,40.154746,-82.9214891,No
+CO2021-15726,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15738,Massage Therapist (MT),635 Jefferson St,Miamisburg,OH,45342-3327,39.6367747,-84.281142,No
+CO2021-15741,Doctor of Medicine (MD),6 Horseshoe Ln,Great Neck,NY,11020-1204,40.770662,-73.720214,No
+CO2021-15744,Massage Therapist (MT),656 S. Clinton,Defiance,OH,43512,41.2826085,-84.3651127,No
+CO2021-15747,Respiratory Care Professional,312 Enez Dr,Depew,NY,14043-1237,42.919771,-78.725731,No
+CO2021-15748,Doctor of Osteopathic Medicine (DO),1234 SW 150th Pl,Miami,FL,33194-2568,25.75499,-80.439537,No
+CO2021-15750,Doctor of Medicine (MD),3514 Cherry St,Winston Salem,NC,27105-3416,36.136344,-80.264207,No
+CO2021-15758,Doctor of Osteopathic Medicine (DO),23120 Floralwood Ln,Boca Raton,FL,33433-7901,26.332785,-80.180973,No
+CO2021-15761,Massage Therapist (MT),6960 Bent Tree Blvd Apt 202,Columbus,OH,43235-5837,40.09800696,-83.08314189,No
+CO2021-15766,Massage Therapist (MT),2577 Brouse St NW,Uniontown,OH,44685-7665,40.934158,-81.390819,No
+CO2021-15767,Doctor of Medicine (MD),595 Copeland Mill Rd Suite 2D,Westerville,OH,43081,40.112077,-82.946283,No
+CO2021-15768,Massage Therapist (MT),603 S Broadway St,Racine,OH,45771-9095,38.967762,-81.913213,No
+CO2021-15769,Massage Therapist (MT),603 S Broadway St,Racine,OH,45771-9095,38.967762,-81.913213,No
+CO2021-15770,Doctor of Medicine (MD),1209 E Cumberland Ave Unit 2404,Tampa,FL,33602-4261,27.9443795,-82.4479755,No
+CO2021-15772,Doctor of Medicine (MD),1300 W 9th St Apt 449,Cleveland,OH,44113-1033,41.498759,-81.700743,No
+CO2021-15774,Doctor of Medicine (MD),5 Widgeon Dr,Pittsburgh,PA,15238-1125,40.553787,-79.909223,No
+CO2021-15776,Doctor of Osteopathic Medicine (DO),1600 E 11th St,Salem,OH,44460-1832,40.912285,-80.837682,No
+CO2021-15783,Doctor of Medicine (MD),2461 SANTA MONICA BLVD %23108,SANTA MONICA,CA,90404,34.0328,-118.475463,No
+CO2021-15784,Doctor of Medicine (MD),5868 LISA CT,MASON,OH,45040,39.3533546,-84.3444926,No
+CO2021-15785,Doctor of Medicine (MD),345 N Canal St Ste 201,Chicago,IL,60606-1333,41.888227,-87.639639,No
+CO2021-15787,Doctor of Medicine (MD),9102 Scenic View Cir,Columbus,OH,43240-4072,40.1533663,-82.9796505,No
+CO2021-15790,Doctor of Medicine (MD),8247 Amberleigh Way,Dublin,OH,43017,40.134046,-83.122324,No
+CO2021-15791,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15792,Doctor of Osteopathic Medicine (DO),5022 State Route 588,Gallipolis,OH,45631-8590,38.83703,-82.281383,No
+CO2021-15793,Doctor of Medicine (MD),5865 Great Court Cir NW,Massillon,OH,44646-7882,40.8695867,-81.5052545,No
+CO2021-15794,Doctor of Medicine (MD),751 ST RT 664N PO Box 917,LOGAN,OH,43138,39.549271,-82.428978,No
+CO2021-15795,Doctor of Osteopathic Medicine (DO),100 River Valley Blvd,New Richmond,OH,45147,38.969321,-84.285131,No
+CO2021-15799,Respiratory Care Professional,16 Layne Ave Unit A,Nitro,WV,25143-1235,38.4128098,-81.8445983,No
+CO2021-15800,Doctor of Medicine (MD),4703 Turnbridge Rd,Toledo,OH,43623-2742,41.7009228,-83.6680525,No
+CO2021-15801,Doctor of Medicine (MD),8210 Turning Leaf Xing,Springboro,OH,45066-5251,39.554595,-84.191957,No
+CO2021-15802,Physician Assistant (PA),22 Miller St,Needham,MA,02492-2213,42.276759,-71.244106,No
+CO2021-15803,Licensed Dietitian,19518 Keesey Creek Cir,Cypress,TX,77433-3971,29.922868,-95.706471,No
+CO2021-15804,Doctor of Medicine (MD),13333 Northwest Fwy Ste 540,Houston,TX,77040-6166,29.849187,-95.507731,No
+CO2021-15806,L1 Limited Permit,112 E Pioneer Trl,Aurora,OH,44202-9380,41.3109848,-81.3420976,No
+CO2021-15807,Doctor of Medicine (MD),873 Redleafe Circle,Chesapeake,VA,23320,36.731913,-76.209467,No
+CO2021-15808,Massage Therapist (MT),1036 Crooked Creek Rd,Eatonton,GA,31024-7726,33.264973,-83.248513,No
+CO2021-15810,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15811,Doctor of Medicine (MD),1318 Laurelwood Rd.,Kettering,OH,45409,39.700387,-84.193951,No
+CO2021-15813,Doctor of Osteopathic Medicine (DO),8384 Laidbrook Pl,New Albany,OH,43054-7516,40.045106,-82.793042,No
+CO2021-15815,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15817,Doctor of Medicine (MD),361 Countryside Dr,Broadview Heights,OH,44147-3417,41.332883,-81.695141,No
+CO2021-15818,Doctor of Medicine (MD),361 Countryside Dr,Broadview Heights,OH,44147-3417,41.332883,-81.695141,No
+CO2021-15819,Doctor of Medicine (MD),361 Countryside Dr,Broadview Heights,OH,44147-3417,41.332883,-81.695141,No
+CO2021-15820,Doctor of Medicine (MD),361 Countryside Dr,Broadview Heights,OH,44147-3417,41.332883,-81.695141,No
+CO2021-15821,Doctor of Medicine (MD),345 N Canal St Ste 201,Chicago,IL,60606-1333,41.888227,-87.639639,No
+CO2021-15822,Doctor of Osteopathic Medicine (DO),2807 Edgewood Rd,Upper Arlington,OH,43220,40.033521,-83.091924,No
+CO2021-15825,Massage Therapist (MT),251 E Beechwold Blvd,Columbus,OH,43214-2119,40.05932,-83.012667,No
+CO2021-15833,Doctor of Medicine (MD),2515 Buckhurst Drive,Beachwood,OH,44122-1663,41.491134,-81.509028,No
+CO2021-15834,Doctor of Medicine (MD),686 WASHINGTON ST APT %232,BROOKLINE,MA,2146,42.338627,-71.134378,No
+CO2021-15835,Physician Assistant (PA),201 Sandpointe Ave Ste 600,Santa Ana,CA,92707-8700,33.698059,-117.866388,No
+CO2021-15836,Physician Assistant (PA),3145 Warrington Rd,Cleveland,OH,44120-2428,41.474278,-81.574995,No
+CO2021-15837,Doctor of Medicine (MD),1768 Business Center Dr Ste 100,Reston,VA,20190-5359,38.949902,-77.326777,No
+CO2021-15838,Doctor of Medicine (MD),4316 East Chase Run,Hamilton,OH,45011,39.3799182,-84.4725243,No
+CO2021-15840,Doctor of Osteopathic Medicine (DO),5 Victorian Gate Way,Columbus,OH,43215,39.975701,-83.003486,No
+CO2021-15841,Doctor of Medicine (MD),4951 BLAKEMORE TR NW,CANTON,OH,44718,40.856111,-81.450315,No
+CO2021-15844,Physician Assistant (PA),1941 Sudbury Dr,Holland,OH,43528-8528,41.6054181,-83.7314291,No
+CO2021-15847,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15849,Doctor of Medicine (MD),4212 East county Rd,batesville,IN,47006,39.2738125,-85.1838342,No
+CO2021-15850,Doctor of Osteopathic Medicine (DO),849 Delaware Ave Unit 404,Buffalo,NY,14209,42.907145,-78.870848,No
+CO2021-15851,Doctor of Medicine (MD),1882 RIVER RIDGE DRIVE,SPRING VALLEY,OH,45370,39.635913,-84.0394749,No
+CO2021-15852,Doctor of Osteopathic Medicine (DO),401 W. Front Street,Perrysburg,OH,43551,41.5581392,-83.6368975,No
+CO2021-15854,L1 Limited Permit,850 Lexington Ave,Mansfield,OH,44907-1996,40.7335779,-82.5344527,No
+CO2021-15856,Doctor of Medicine (MD),187 Southwoods Ave,Youngstown,OH,44512-5413,41.015273,-80.671578,No
+CO2021-15860,Doctor of Medicine (MD),8371 Yankee St,Dayton,OH,45458-1810,39.62512,-84.200407,No
+CO2021-15862,Doctor of Medicine (MD),25651 DETROIT RD SUITE 304,WESTLAKE,OH,44145,41.469055,-81.903348,No
+CO2021-15865,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15867,Doctor of Osteopathic Medicine (DO),2249 W Broad St,Columbus,OH,43223-1047,39.955316,-83.0603242,No
+CO2021-15868,Doctor of Medicine (MD),1312 Bel Aire Rd,San Mateo,CA,94402-3617,37.5348917,-122.34549,No
+CO2021-15869,Doctor of Osteopathic Medicine (DO),110 Edward Street Nw THE 110 BUILDING,Warren,OH,44483-1118,41.312297,-80.851109,No
+CO2021-15878,Doctor of Medicine (MD),3255 Van Aken Blvd,Shaker Heights,OH,44120-3507,41.471307,-81.575014,No
+CO2021-15879,Doctor of Medicine (MD),3535 Southern Blvd,Kettering,OH,45429-1221,39.696673,-84.192343,No
+CO2021-15881,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15887,Doctor of Medicine (MD),7817 COOPER RD SUITE C,CINCINNATI,OH,45242,39.226225,-84.3555033,No
+CO2021-15888,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15893,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15894,Physician Assistant (PA),6770 Hayhurst Street,Worthington,OH,43085,40.10275,-83.019335,No
+CO2021-15898,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15899,Doctor of Medicine (MD),230 Ben Shaw Rd,Aurora,OH,44202-9331,41.308256,-81.337312,No
+CO2021-15900,Doctor of Osteopathic Medicine (DO),261 Crocker Park Blvd Apt 213,Westlake,OH,44145-8140,41.458542,-81.952649,No
+CO2021-15906,Doctor of Medicine (MD),427 Oak Ln,Kingston,OH,45644-9562,39.429249,-82.8215327,No
+CO2021-15907,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15908,Doctor of Medicine (MD),9500 Euclid Ave %23 J4-1,Cleveland,OH,44195-0002,41.50252,-81.621055,No
+CO2021-15910,Doctor of Medicine (MD),7656 Wills Run Ln,Blacklick,OH,43004-8527,40.0365051,-82.8064741,No
+CO2021-15911,Doctor of Medicine (MD),26465 Birchdale Drive,Westlake,OH,44145,41.446635,-81.914775,No
+CO2021-15922,Limited Permit,1126 7th St,Huntington,WV,25701-3208,38.4097901,-82.4440507,No
+CO2021-15924,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15930,Physician Assistant (PA),231 S Belvoir Blvd,South Euclid,OH,44121-2346,41.543696,-81.538596,No
+CO2021-15931,Doctor of Medicine (MD),6695 FAIR OAKS DR,CINCINNATI,OH,45237,39.193003,-84.441554,No
+CO2021-15939,Doctor of Medicine (MD),13280 Evening Creek Drive South Suite 110,San Diego,CA,92128,32.958298,-117.097123,No
+CO2021-15944,Doctor of Medicine (MD),13280 Evening Creek Dr S Ste 225,San Diego,CA,92128-4664,32.958298,-117.097123,No
+CO2021-15946,Doctor of Medicine (MD),365 Edna Street,Alliance,OH,44601,40.880357,-81.100303,No
+CO2021-15947,Doctor of Medicine (MD),2141 W 18th St,Cleveland,OH,44113-3559,41.485496,-81.696601,No
+CO2021-15948,Doctor of Medicine (MD),6701 Rockside Road Suite 365,Independence,OH,44131,41.395428,-81.643632,No
+CO2021-15949,Doctor of Medicine (MD),8990 E Washington Street,Chagrin Falls,OH,44023,41.4054808,-81.3202613,No
+CO2021-15950,Doctor of Medicine (MD),5819 Rushwood Dr,Dublin,OH,43017-8698,40.129616,-83.137129,No
+CO2021-15951,Doctor of Medicine (MD),10100 Apple Springs Dr,Centerville,OH,45458-9584,39.59843,-84.147074,No
+CO2021-15954,Doctor of Medicine (MD),2213 Cherry Street c/o Emer Med,Toledo,OH,43608,41.67892075,-83.52715302,No
+CO2021-15958,Doctor of Medicine (MD),3437 E. Lions St.,Phoenix,AZ,85018,33.51196,-112.007066,No
+CO2021-15986,Doctor of Medicine (MD),5172 Leavitt Rd,Lorain,OH,44053-2384,41.421294,-82.210108,No
+CO2021-15990,Training Certificate (DO),1803 Wheatfield Way,Loveland,OH,45140-8539,39.215717,-84.224681,No
+CO2021-15992,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15993,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15994,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15996,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-15998,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16000,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16001,Doctor of Osteopathic Medicine (DO),alfredo figueroa 1881 Stargrass Ave.,Grove City,OH,43123,39.8459968,-83.0566922,No
+CO2021-16005,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16007,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16010,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16013,Doctor of Osteopathic Medicine (DO),26151 EUCLID AVENUE SUITE 201,EUCLID,OH,44132,41.588945,-81.500901,No
+CO2021-16019,Doctor of Medicine (MD),6244 N Navajo Ave,Chicago,IL,60646-4123,41.9956886,-87.7596777,No
+CO2021-16020,Doctor of Medicine (MD),5104 Halifax Dr,Cleves,OH,45002-1195,39.182855,-84.683081,No
+CO2021-16021,Licensed Dietitian,1491 Candlewood Dr,Columbus,OH,43235-1624,40.122163,-83.057299,No
+CO2021-16023,Respiratory Care Professional,2430 State Route 213,Steubenville,OH,43952-7977,40.4094505,-80.6560568,No
+CO2021-16025,Doctor of Osteopathic Medicine (DO),5 Victorian Gate Way,Columbus,OH,43215,39.975701,-83.003486,No
+CO2021-16026,Doctor of Medicine (MD),8247 Amberleigh Way,Dublin,OH,43017,40.134046,-83.122324,No
+CO2021-16028,Doctor of Medicine (MD),4023 VIA CASSIA,POLAND,OH,44514,41.0000256,-80.574176,No
+CO2021-16029,Respiratory Care Professional,770 Forest Dr,Mansfield,OH,44905-2031,40.774004,-82.488936,No
+CO2021-16030,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16031,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16033,Doctor of Medicine (MD),106 Main St,Byfield,MA,01922-1101,42.764724,-70.943615,No
+CO2021-16034,Doctor of Medicine (MD),7150 Ravens Run,Cincinnati,OH,45244-3593,39.106526,-84.356008,No
+CO2021-16035,Doctor of Medicine (MD),146 Federal City Rd,Lawrenceville,NJ,08648-1586,40.292147,-74.75446,No
+CO2021-16036,Doctor of Medicine (MD),8171 Leeshore Drive,Maineville,OH,45039,39.3184806,-84.2803842,No
+CO2021-16037,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16039,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16041,Respiratory Care Professional,4099 Adalric Dr,Columbus,OH,43219-8100,40.0294061,-82.9056942,No
+CO2021-16045,Doctor of Osteopathic Medicine (DO),4681 mahoning avenue,Warren,OH,44483,41.285471,-80.846836,No
+CO2021-16052,Training Certificate (MD),367 County Road 700,Polk,OH,44866-9715,40.9574059,-82.1989986,No
+CO2021-16056,Doctor of Medicine (MD),2737 Navarre Ave Ste 202,Oregon,OH,43616-3276,41.637457,-83.482692,No
+CO2021-16058,Genetic Counselor (GC),PO Box 453,Elmwood Park,NJ,07407-0453,40.90704727,-74.11932373,No
+CO2021-16060,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16065,Doctor of Medicine (MD),170 Taylor Station Road,Columbus,OH,43213-4441,39.983384,-82.842618,No
+CO2021-16067,Limited Permit,5765 Gilmore Dr,Fairfield,OH,45014-5006,39.319431,-84.524791,No
+CO2021-16068,Doctor of Medicine (MD),240 Sterncrest Dr,Moreland Hills,OH,44022-1807,41.4378408,-81.4540227,No
+CO2021-16069,Massage Therapist (MT),1535 Weymouth Cir Apt 110,Westlake,OH,44145-6190,41.4663098,-81.9382165,No
+CO2021-16074,Doctor of Medicine (MD),7590 Auburn Rd,Concord Township,OH,44077-9176,41.6627,-81.247072,No
+CO2021-16075,Licensed Dietitian,295 E South Trl,Tiffin,OH,44883-9331,41.064063,-83.165364,No
+CO2021-16078,Doctor of Medicine (MD),20940 BELHAVEN PLACE,STRONGSVILLE,OH,44149,41.284382,-81.856508,No
+CO2021-16079,Doctor of Medicine (MD),1255 DEARBORN DRIVE,AKRON,OH,44313,41.107456,-81.556428,No
+CO2021-16088,Doctor of Medicine (MD),3695 Green RD %2322778,Beachwood,OH,44122-7939,41.459395,-81.51575,No
+CO2021-16094,Doctor of Medicine (MD),1505 Missouri Ave Apt 2C,Saint Louis,MO,63104-2568,38.6165733,-90.2186117,No
+CO2021-16097,Doctor of Medicine (MD),5001 Transportation Drive,Sheffield Village,OH,44054,41.424056,-82.086168,No
+CO2021-16099,Doctor of Osteopathic Medicine (DO),2308 Winfield Ave,Rocky River,OH,44116-2869,41.473557,-81.8281,No
+CO2021-16100,Massage Therapist (MT),28820 Chagrin Blvd Apt 219,Woodmere,OH,44122-4626,41.4611994,-81.4746858,No
+CO2021-16104,Doctor of Medicine (MD),17825 Cradler Turner Rd,Marysville,OH,43040-9336,40.260548,-83.418667,No
+CO2021-16105,Doctor of Medicine (MD),2951 E Airport Rd NE,McConnelsville,OH,43756,39.652082,-81.765941,No
+CO2021-16107,Doctor of Medicine (MD),46 Waterford Ct,Granville,OH,43023-9501,40.0689903,-82.4858527,No
+CO2021-16108,Doctor of Osteopathic Medicine (DO),3055 Blue Monaco St,Las Vegas,NV,89117-2526,36.133815,-115.262944,No
+CO2021-16109,Doctor of Medicine (MD),1260 Yellowstone Rd.,Cleveland Heights,OH,44121,41.525856,-81.550281,No
+CO2021-16110,Doctor of Osteopathic Medicine (DO),376 Niles Vienna Rd,Vienna,OH,44473-9501,41.234649,-80.6694883,No
+CO2021-16111,Massage Therapist (MT),2985 Brandon Rd,Columbus,OH,43221-3338,40.018005,-83.056452,No
+CO2021-16112,Doctor of Medicine (MD),5009 WORKINGHAM DR,DUBLIN,OH,43017,40.125591,-83.124987,No
+CO2021-16114,Massage Therapist (MT),2985 Brandon Rd,Columbus,OH,43221-3338,40.018005,-83.056452,No
+CO2021-16115,Acupuncturist (ACU),4193 Lorain Ct,Cleveland,OH,44113-3824,41.479401,-81.714393,No
+CO2021-16116,Doctor of Medicine (MD),5500 Ridge Road Suite 115,Parma,OH,44129,41.411781,-81.735153,No
+CO2021-16117,Doctor of Osteopathic Medicine (DO),5531 Lilac Ave,Grove City,OH,43123-7645,39.849406,-83.057156,No
+CO2021-16119,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16120,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16121,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16122,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16125,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16126,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16127,Doctor of Osteopathic Medicine (DO),4550 HELSTON CT,COLUMBUS,OH,43220,40.046647,-83.093286,No
+CO2021-16128,Doctor of Medicine (MD),3400 Legendary Trails Drive,Cincinnati,OH,45245,39.0263475,-84.2617176,No
+CO2021-16130,Doctor of Medicine (MD),855 South Wall st,Columbus,OH,43206,39.944487,-82.998588,No
+CO2021-16131,Doctor of Medicine (MD),3255 Lexington Glen Blvd,Monclova,OH,43542-9600,41.5813636,-83.7499432,No
+CO2021-16134,Doctor of Medicine (MD),15 Pipestone Dr,Miamisburg,OH,45342-7876,39.612204,-84.249434,No
+CO2021-16138,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16140,Doctor of Podiatric Medicine (DPM),1950 Hansell Dr,Bensalem,PA,19020-2823,40.099452,-74.944461,No
+CO2021-16141,Doctor of Medicine (MD),10S418 Carrington Cir,Burr Ridge,IL,60527-6945,41.722833,-87.946843,No
+CO2021-16143,Massage Therapist (MT),12329 Castlewood Ave,Cleveland,OH,44108-3919,41.528666,-81.600544,No
+CO2021-16144,Doctor of Medicine (MD),9190 Springfield Rd Apt 31C,Poland,OH,44514-4110,40.984922,-80.610723,No
+CO2021-16146,Doctor of Medicine (MD),99 W Saint Clair Ave Apt 1108,Cleveland,OH,44113-1535,41.500969,-81.695376,No
+CO2021-16147,Doctor of Osteopathic Medicine (DO),28339 SR 643,FRESNO,OH,43824,40.3642481,-81.8420891,No
+CO2021-16152,Massage Therapist (MT),2550 SUNNYWOOD CT,BEAVERCREEK,OH,45434,39.7223252,-84.0294439,No
+CO2021-16153,Massage Therapist (MT),4995 Smoketalk Ln,Westerville,OH,43081-4432,40.087465,-82.882281,No
+CO2021-16154,Doctor of Osteopathic Medicine (DO),1034 18th Ave N,St Petersburg,FL,33704-4134,27.78863,-82.648545,No
+CO2021-16156,Doctor of Medicine (MD),1004 Des Plaines Ave Apt 8,Forest Park,IL,60130-2163,41.868069,-87.81832,No
+CO2021-16158,Doctor of Medicine (MD),311 S Lasalle St Apt 32L,Durham,NC,27705-3671,36.01419,-78.944705,No
+CO2021-16159,Doctor of Medicine (MD),91 PVT DRIVE 1277,IRONTON,OH,45638,38.522424,-82.574812,No
+CO2021-16160,Massage Therapist (MT),149 Valley Forge Cir,Elyria,OH,44035-4520,41.361923,-82.162034,No
+CO2021-16163,Doctor of Medicine (MD),502 Shem Butler Ct,Charleston,SC,29414-7154,32.8508128,-80.06523,No
+CO2021-16164,Doctor of Medicine (MD),970 W Wooster %23130,BOWLING GREEN,OH,43402,41.375789,-83.667093,No
+CO2021-16168,Doctor of Osteopathic Medicine (DO),7811 Lindell Ln,Powell,OH,43065-7138,40.1855182,-83.0694876,No
+CO2021-16169,Doctor of Medicine (MD),767 Admiral Ct,Oak Park,CA,91377-4755,34.186428,-118.782937,No
+CO2021-16174,Respiratory Care Professional,6006 Thornton Drive,Parma,OH,44129,41.39829,-81.726923,No
+CO2021-16175,Limited Permit,2244 Dominion Dr,Fort Mitchell,KY,41017-2017,39.0556553,-84.568029,No
+CO2021-16176,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16179,Doctor of Medicine (MD),6133 Saint Paul Rd,Ashville,OH,43103-9537,39.7443679,-82.9014003,No
+CO2021-16181,Doctor of Medicine (MD),3050 Mack Road Suite 375,Fairfield,OH,45014,39.312358,-84.517651,No
+CO2021-16182,Doctor of Medicine (MD),1669 Sperry's Forge Trail,Westlake,OH,44145,41.464267,-81.936069,No
+CO2021-16195,Doctor of Medicine (MD),3239 Shadow View Ln,Missouri City,TX,77459-5122,29.54039,-95.554873,No
+CO2021-16196,Doctor of Medicine (MD),7221 Engle Rd Ste 220,Fort Wayne,IN,46804-2233,41.04316,-85.236507,No
+CO2021-16197,Doctor of Medicine (MD),3419 COURTLAND ROAD,PEPPER PIKE,OH,44122,41.4663,-81.477679,No
+CO2021-16198,Doctor of Medicine (MD),3273 Potterstone Way,Avon,OH,44011-4201,41.4427,-81.9805214,No
+CO2021-16200,Doctor of Osteopathic Medicine (DO),409 1/2 Cedar Point Rd,Sandusky,OH,44870-5208,41.4393067,-82.630265,No
+CO2021-16201,Doctor of Medicine (MD),Eye Care Associates 10 Dutton Drive,Youngstown,OH,44502,41.09418,-80.657459,No
+CO2021-16202,Doctor of Medicine (MD),2150 W. Central Ave.,TOLEDO,OH,43606,41.678263,-83.596559,No
+CO2021-16203,Doctor of Medicine (MD),1994 Clarendon Ct,Westlake,OH,44145-3001,41.4569117,-81.9298727,No
+CO2021-16205,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16207,Doctor of Medicine (MD),122 Meadow Ln,Marietta,OH,45750-1344,39.439965,-81.438604,No
+CO2021-16211,Doctor of Medicine (MD),2101 Oakmount Rd,Columbus,OH,43221-1229,40.024716,-83.069818,No
+CO2021-16217,Doctor of Medicine (MD),4031 Massillon Road Suite A,Uniontown,OH,44685,40.951704,-81.464869,No
+CO2021-16221,Doctor of Osteopathic Medicine (DO),2740 Mack Rd,Fairfield,OH,45014-5161,39.311708,-84.527808,No
+CO2021-16222,Doctor of Medicine (MD),4827 N.W. 72nd Lane,Gainesville,FL,32653,29.720839,-82.394883,No
+CO2021-16223,Doctor of Medicine (MD),125 Executive Dr Ste 201,Marion,OH,43302-6302,40.570143,-83.125252,No
+CO2021-16227,Doctor of Medicine (MD),55 Barnes Drive,Tallmadge,OH,44278,41.107537,-81.41663,No
+CO2021-16228,Doctor of Medicine (MD),725 Buckles Ct N Ste 230,Gahanna,OH,43230-6884,39.999403,-82.861491,No
+CO2021-16229,Doctor of Osteopathic Medicine (DO),28 Ladys Thumb Cir,Charles Town,WV,25414-1780,39.45804101,-78.49097778,No
+CO2021-16237,Doctor of Medicine (MD),209 Hosea Ave,Cincinnati,OH,45220-1705,39.143402,-84.515885,No
+CO2021-16238,Doctor of Medicine (MD),12 Nun St.,Wilmington,NC,28401-5016,34.229797,-77.949353,No
+CO2021-16239,Doctor of Medicine (MD),8341 Somerset Way,DUBLIN,OH,43017,40.1368974,-83.1232434,No
+CO2021-16241,Doctor of Medicine (MD),1930 Tamarack Rd,Newark,OH,43055-2303,40.040637,-82.464757,No
+CO2021-16242,Doctor of Medicine (MD),"1801 Boulevard Ave, Suite 2",Seaside Park,NJ,8752,39.9359245,-74.0747387,No
+CO2021-16247,Doctor of Medicine (MD),6621 NE 21st Ave,Fort Lauderdale,FL,33308-1035,26.209365,-80.11776,No
+CO2021-16251,Doctor of Medicine (MD),1000 Auburn Drive Suite 110,Beachwood,OH,44122,41.452543,-81.494973,No
+CO2021-16253,Doctor of Medicine (MD),212 E Columbus Ave Ste 1,Bellefontaine,OH,43311-2033,40.360628,-83.756976,No
+CO2021-16254,Training Certificate (MD),453 E Milwaukee St,Detroit,MI,48202-3235,42.37134,-83.06704,No
+CO2021-16258,Doctor of Medicine (MD),2055 Reading Rd Ste 120,Cincinnati,OH,45202-1439,39.119675,-84.500591,No
+CO2021-16260,Doctor of Medicine (MD),220 Golden Eagle Dr,Valparaiso,IN,46385-9073,41.547684,-87.10862,No
+CO2021-16262,Doctor of Medicine (MD),5053 Wooster Road,Cincinnati,OH,45226,39.121764,-84.4081,No
+CO2021-16264,Doctor of Medicine (MD),9257 Province Ln,Brecksville,OH,44141,41.330805,-81.598029,No
+CO2021-16265,Doctor of Medicine (MD),213 Shady Brook Ln,Wheelersburg,OH,45694-8369,38.7169721,-82.8494232,No
+CO2021-16266,Doctor of Osteopathic Medicine (DO),104 12th St,Tell City,IN,47586-1912,37.941987,-86.764114,No
+CO2021-16268,Doctor of Medicine (MD),1278 W 9th St. Apt. 1219,Cleveland,OH,44113,41.499015,-81.701741,No
+CO2021-16272,Doctor of Medicine (MD),495 SUGAR LAMP RD,VENETIA,PA,15367,40.282768,-80.055167,No
+CO2021-16275,Doctor of Osteopathic Medicine (DO),10725 Bald Cypress Ln,Knoxville,TN,37922-6760,35.85633,-84.116462,No
+CO2021-16274,Doctor of Osteopathic Medicine (DO),325 Stolle Dr.,Springboro,OH,45066,39.57437,-84.214231,No
+CO2021-16281,Doctor of Medicine (MD),5871 Londonairy Blvd.,Hudson,OH,44236,41.226317,-81.476602,No
+CO2021-16284,Doctor of Medicine (MD),1000 E Hillsboro Blvd Ste 102,Deerfield Beach,FL,33441-3628,26.316796,-80.089642,No
+CO2021-16285,Doctor of Medicine (MD),5516 BRAMPTON ROAD,DAYTON,OH,45429,39.6632,-84.147518,No
+CO2021-16287,Licensed Dietitian,4755 Hamilton Rd,Medina,OH,44256-8306,41.1946493,-81.8570778,No
+CO2021-16292,Doctor of Osteopathic Medicine (DO),3483 Torrey Pines Dr.,Akron,OH,44333,41.123779,-81.6392716,No
+CO2021-16300,Physician Assistant (PA),2836 Hyde Park Pl,Cincinnati,OH,45208-1408,39.143493,-84.43826,No
+CO2021-16301,Doctor of Medicine (MD),1123 Grindstone Ct,Union,KY,41091-8247,38.920417,-84.660785,No
+CO2021-16302,Doctor of Osteopathic Medicine (DO),7380 Engle Road,Middleburg Htgs,OH,44130,41.366057,-81.825869,No
+CO2021-16304,Doctor of Medicine (MD),931 Chatham Ln,Columbus,OH,43221-2417,40.019577,-83.036958,No
+CO2021-16305,Licensed Dietitian,4755 Hamilton Rd,Medina,OH,44256-8306,41.1946493,-81.8570778,No
+CO2021-16308,Doctor of Osteopathic Medicine (DO),9 Buttles Ave Apt 304,Columbus,OH,43215-6426,39.9770137,-83.0039627,No
+CO2021-16306,Doctor of Medicine (MD),3549 Berkeley Rd,Cleveland Heights,OH,44118-1967,41.510232,-81.55253,No
+CO2021-16307,Doctor of Osteopathic Medicine (DO),7955 Ivy Ridge Ct,Springboro,OH,45066-8490,39.553109,-84.186467,No
+CO2021-16309,Massage Therapist (MT),PO Box 8486,Cincinnati,OH,45208-0486,39.13853836,-84.4368515,No
+CO2021-16310,Doctor of Medicine (MD),46 Waterford Ct,Granville,OH,43023-9501,40.0689903,-82.4858527,No
+CO2021-16311,Doctor of Medicine (MD),22100 Bothell Everett Hwy Bldg C,Bothell,WA,98021-8431,47.798382,-122.215649,No
+CO2021-16312,Doctor of Medicine (MD),Sports Health Center 5555 Transportation Blvd.,Garfield Heights,OH,44125,41.410933,-81.614532,No
+CO2021-16313,Doctor of Medicine (MD),5195 Hampsted Village Center Way PMB 78,New Albany,OH,43054-8331,40.0828745,-82.8232855,No
+CO2021-16314,Doctor of Osteopathic Medicine (DO),510 E Boundary St,Perrysburg,OH,43551-2227,41.5596118,-83.6153159,No
+CO2021-16315,Doctor of Medicine (MD),"2984 Austing Springs Blvd, Apt K",Miamisburg,OH,45342,39.5984236,-84.2270793,No
+CO2021-16316,Doctor of Medicine (MD),3690 Orange Pl Suite 100,Beachwood,OH,44122,41.459599,-81.488881,No
+CO2021-16317,Doctor of Osteopathic Medicine (DO),21744 Woodfield Trl,Strongsville,OH,44149-9202,41.324649,-81.865965,No
+CO2021-16318,Respiratory Care Professional,19200 Space Center Blvd Apt 630,Houston,TX,77058-3841,29.564991,-95.077246,No
+CO2021-16320,Doctor of Medicine (MD),25920 Wood Creek Ct,Perrysburg,OH,43551,41.5279456,-83.6848148,No
+CO2021-16321,Doctor of Medicine (MD),5800 Park Center Suite C,Toledo,OH,43615,41.682515,-83.680227,No
+CO2021-16322,Doctor of Medicine (MD),6719 Mallard Lake Dr.,Roanoke,VA,24018,37.1899698,-80.0382474,No
+CO2021-16323,Doctor of Medicine (MD),4036 sedgwick drive,new albany,OH,43054,40.0637444,-82.8345278,No
+CO2021-16324,Doctor of Medicine (MD),5241 Alzeda Dr,La Mesa,CA,91941-5726,32.771998,-116.960156,No
